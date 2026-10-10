@@ -1,0 +1,98 @@
+{
+  "dataset": "MADANI Twin mandatory demo scenario (synthetic)",
+  "note": "Illustrative synthetic data — not real Malaysian SME financial data.",
+  "anchorDate": "2026-11-01",
+  "openingCashRM": 50000,
+  "minimumReserveRM": 10000,
+  "horizonDays": 30,
+  "balanceConvention": "closing-of-day (all same-day events applied)",
+  "breachDefinition": "closing cash strictly below minimum reserve",
+  "baselineEvents": [
+    {
+      "id": "demo-receipt-001",
+      "description": "Customer receipt — Gopeng Trading Sdn Bhd (invoice INV-2041)",
+      "eventType": "receipt",
+      "amountRM": 20000,
+      "day": 5,
+      "date": "2026-11-06",
+      "vendorOrCustomer": "Gopeng Trading Sdn Bhd",
+      "invoiceRef": "INV-2041",
+      "status": "confirmed",
+      "source": "synthetic_demo",
+      "dataClass": "known"
+    },
+    {
+      "id": "demo-payroll-001",
+      "description": "Monthly payroll — 9 staff",
+      "eventType": "payroll",
+      "amountRM": -25000,
+      "day": 7,
+      "date": "2026-11-08",
+      "vendorOrCustomer": "Internal payroll",
+      "status": "confirmed",
+      "source": "synthetic_demo",
+      "dataClass": "known"
+    },
+    {
+      "id": "demo-supplier-001",
+      "description": "Supplier payment — Syarikat Bekalan Utama (invoice SBU-8817)",
+      "eventType": "supplier_payment",
+      "amountRM": -20000,
+      "day": 7,
+      "date": "2026-11-08",
+      "vendorOrCustomer": "Syarikat Bekalan Utama",
+      "invoiceRef": "SBU-8817",
+      "status": "confirmed",
+      "source": "synthetic_demo",
+      "dataClass": "known"
+    }
+  ],
+  "scenarios": {
+    "baseline": {
+      "ops": [],
+      "expected": {
+        "day5RM": 70000,
+        "day7RM": 25000,
+        "minRM": 25000,
+        "breaches": 0
+      }
+    },
+    "downside": {
+      "ops": [
+        {
+          "kind": "move_event",
+          "eventId": "demo-receipt-001",
+          "newDay": 9
+        }
+      ],
+      "expected": {
+        "day7RM": 5000,
+        "shortfallRM": 5000,
+        "firstBreachDay": 7,
+        "leadTimeDays": 7
+      }
+    },
+    "intervention": {
+      "ops": [
+        {
+          "kind": "move_event",
+          "eventId": "demo-receipt-001",
+          "newDay": 9
+        },
+        {
+          "kind": "split_postpone",
+          "eventId": "demo-supplier-001",
+          "deferRM": -10000,
+          "newDay": 9
+        }
+      ],
+      "expected": {
+        "day7RM": 15000,
+        "day9RM": 25000,
+        "day30RM": 25000,
+        "breaches": 0,
+        "note": "deferred RM10,000 subject to supplier agreement"
+      }
+    }
+  }
+}
