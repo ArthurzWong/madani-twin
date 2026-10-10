@@ -1,0 +1,4328 @@
+NATIONAL AI ACTION PLAN
+2026-2030
+AI
+NATION
+2030
+AI MALAYSIA 
+NATIONAL AI OFFICE
+
+Ministry of Digital
+Level 7, Menara PjH
+Jalan Tun Abdul Razak, Presinct 2
+62100 PUTRAJAYA, MALAYSIA
+Tel : +603-8000 8000
+Instagram : www.instagram.com/kementeriandigitalmalaysia
+Facebook : www.facebook.com/KementerianDigitalMalaysia
+X : x.com/KemDigitalMsia
+Tiktok : www.tiktok.com/@kementeriandigital
+© MINISTRY OF DIGITAL MALAYSIA
+AI MALAYSIA BERHAD [202601028115 (1690210-V)]
+(National AI Office)
+AI Malaysia Berhad is the national agency under the Digital Ministry, mandated to lead, coordinate, and accelerate the nation’s Artificial 
+Intelligence (AI) ecosystem towards realising the AI Nation 2030 vision.
+All rights reserved
+Copyright Notice© [2026] [MINISTRY OF DIGITAL MALAYSIA. All rights reserved. The content of this book, including but not limited to text, 
+graphics, and images, is protected by copyright laws. Unauthorised reproduction, distribution, or use of the content in any form or by any 
+means, without the prior written permission of the copyright owner, is strictly prohibited.
+PUBLISHED BY
+
+TABLE OF CONTENTS
+FOREWORDS
+•	 Prime Minister of Malaysia
+•	 Minister of Digital
+•	 Secretary General Ministry of Digital
+QUICK FACTS
+•	 What is Artificial Intelligence (AI)?
+•	 Why AI Matters Now?
+•	 What is the AI Nation Aspiration?
+PART 1: THE NATIONAL AI STRATEGIC 
+CONTEXT
+•	 Malaysia’s Starting Point: Emerging 
+AI Leader
+•	 Lessons from AI Roadmap 2021-2025
+•	 Aligning AI Nation 2030 with 
+National Development Priorities
+PART 2: THE ACTION PLAN 
+FRAMEWORK
+•	 The AI Nation 2030 Architecture 
+•	 Vision: Towards a Value-Driven AI 
+Nation
+•	 Mission: Delivering Meaningful AI 
+Transformation
+•	 Shaping Human-Centric AI
+•	 Strategic Policy Shifts
+•	 Catalytic Initiatives Delivering Fast-
+Track Results
+PART 3: IMPACT ENGINES: DRIVING 
+SECTORAL TRANSFORMATION
+•	 Impact Engines
+•	 Impact Engines Delivery Models
+•	 How Impact Engines Operate: The AI 
+Adoption Closed Loop
+•	 Catalytic Impact Engines Initiatives
+•	 Accelerating AI Adoption Across 
+Priority Sectors Through Impact 
+Engines
+GOVERNMENT-INITIATED IMPACT 
+ENGINES
+•	 I1: Healthcare: AI to Prevent, 
+Diagnose and Advance Clinical 
+Discovery
+•	 I2: AI Cities: Scalable AI City Solutions
+•	 I3: Public Services: Reimagined 
+Government-to-Rakyat Interactions
+•	 I4: Public Sector: AI-Augmented 
+Government that Works Smarter
+4
+4
+6
+7
+8
+8
+8
+9
+10
+11
+11
+11
+12
+13
+14
+14
+15
+15
+16
+18
+19
+20
+22
+25
+25
+26
+26
+28
+30
+32
+
+34
+36
+38
+40
+40
+42
+44
+46
+48
+49
+50
+51
+52
+53
+55
+56
+56
+56
+58
+58
+60
+62
+64
+66
+68
+68
+70
+74
+76
+76
+78
+80
+80
+82
+84
+86
+88
+89
+90
+90
+90
+91
+92
+98
+•	 I5: Education: Personalised Learning 
+for Tertiary Education
+•	 I6: Agrofood: Scalable Agristack
+•	 I7: Cross-Sector: Secure and 
+Localised AI Ecosystem for Malaysia
+PUBLIC-PRIVATE PARTNERSHIP 
+(PPP) IMPACT ENGINES
+•	 I8: Manufacturing: AI Hub for the 
+Manufacturing Ecosystem
+•	 I9: Plantation: AI Platform for 
+Smallholder Empowerment
+•	 I10: AI for MSMEs: Modular Resources 
+for MSMEs
+INDUSTRY CHAMPION-LED IMPACT 
+ENGINES
+•	 I11: Power Utility: AI for a Green 
+Energy Future
+•	 I12: Oil and Gas: Modernising the 
+OGSE Ecosystem
+•	 I13: Financial Services: Growth, 
+Inclusion and Security
+•	 I14: Telecommunications: 
+Empowering Malaysia’s AI 
+Infrastructure
+PART 4: FOUNDATIONAL ENABLERS: 
+ANCHORING SYSTEM-WIDE AI 
+ADOPTION
+•	 Foundational Enablers
+•	 How Foundational Enablers Operate
+•	 Delivery and Oversight
+•	 Catalytic Foundational Enablers 
+Initiatives
+•	 Strengthening Core Capabilities 
+Through Foundational Enablers
+GLOBALLY COMPETITIVE HUMAN 
+CAPITAL
+•	 E1: Global Talent Network
+•	 E2: Talent Pipeline @ Scale
+•	 E3: AI-Centric Higher Education
+•	 E4: AI-Fluent Students
+•	 E5: AI-Competent Civil Servant
+MARKET-DRIVEN INNOVATION AND 
+ADOPTION
+•	 E6: Research Foundry
+•	 E7: AI Growth Zones
+•	 E8: Public Trust and Confidence
+DATA AND COMPUTE 
+INFRASTRUCTURE
+•	 E9: AI-Ready Data Ecosystem
+•	 E10: Accessible High-Compute 
+Capacity
+TRUST VIA RESPONSIBLE 
+GOVERNANCE
+•	 E11: Holistic and Sectoral AI 
+Governance
+•	 E12: AI Trust Function
+•	 E13: National AI Classification
+•	 E14: AI-Aware Stewardship
+PART 5: GOVERNANCE AND 
+IMPLEMENTATION
+•	 Whole-of-Nation Execution Model
+•	 Strategic and Implementation 
+Advisory Councils
+•	 Clear Mandates and Accountability 
+Across Government
+•	 Shifting to Outcome-Based 
+Policymaking
+CONCLUSION
+GLOSSARY
+A COLLECTIVE EFFORT TOWARDS 
+AN AI NATION
+
+4
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+FOREWORD
+Throughout history, technology has been 
+the catalyst of human progress, whether 
+one refers to rudimentary tools of stone 
+and wood to hunt and build shelters, or 
+the invention of the Gutenberg printing 
+press that eradicates borders for the 
+dissemination of ideas. Artificial Intelligence 
+(AI) would be an extension of this, standing 
+at the centre of profound social, economic 
+and global transformation. 
+For the Rakyat, AI must translate into 
+meaningful improvements in everyday life 
+— better access to services, more responsive 
+institutions, 
+improved 
+healthcare 
+and 
+education 
+outcomes, 
+and 
+broader 
+economic opportunities. For businesses, AI 
+represents a powerful driver of productivity, 
+competitiveness, and innovation. And for 
+the government, AI is a tool to strengthen 
+policy effectiveness, service delivery, and 
+institutional capability. 
+Anchored on the MADANI philosophy, 
+becoming an AI nation is not merely on 
+adoption, but should harness technology 
+to fulfill purpose, values and culture. Thus 
+the success of Malaysia as an AI nation is to 
+mobilise AI to address national challenges 
+be it sluggish wage growth or climate 
+change, while ensuring the adoption would 
+not deprive people of humane qualities. This 
+AI Nation 2030 document marks Malaysia’s 
+aspiration to be an AI nation by 2030, which 
+paves technological transformations to 
+raise the ceiling for the Rakyat, lift the floor, 
+PRIME 
+MINISTER
+OF MALAYSIA
+YAB Dato’ Seri Anwar bin Ibrahim
+
+Ministry of Digital
+5
+while ensuring that growth is rooted in identity, 
+history, values and our humanity.
+Yet, this pathway of AI diffusion can be fraught 
+with challenges. The benefit of new technology 
+can be impeded by geostrategic landscapes or 
+productivity paradox where national adoption 
+practices may not commensurate with the 
+resources disbursed to build the new layers of 
+digital infrastructure. Oversight of adoption gaps 
+could concentrate AI adoption in urban areas, 
+widening the digital divide with those outside 
+of these circles. Furthermore, new technologies 
+test the agility of governance where alignment 
+between policies, technological exploration and 
+human values, ethical principles in addition 
+to legal definitions, will be tried. The MADANI 
+principle is anchored on inclusivity and social 
+justice, thus an AI nation should distribute 
+benefits of AI to proliferate among every layer of 
+society.
+Building future-ready talent prepared to live in 
+the human-machine era is the task at present. The 
+wrong turn of an AI nation can sow dependence 
+on AI and dehumanise identity, values and 
+culture. If the purpose of humanity is to learn, 
+assimilate knowledge, acquire knowledge and 
+churn out ideas; adoption without due diligence 
+could redesign thinking to those contrary of their 
+own values and practices. Thus, the development 
+of responsible AI is a challenge Malaysia must rise 
+to address, especially to build new technology 
+and machines that reflects our priorities, values 
+and culture. 
+To these ends, building the AI nation is not 
+merely a technology agenda, it is a nation-
+building agenda. Malaysia had made milestones, 
+whether it is digital transformation from 5G 
+connectivity to device availability at individual 
+and enterprise levels. Strategically primed to 
+be an AI hub, Malaysia’s years of experience in 
+semiconductor testing, assembly and packaging, 
+has drawn investments to move the nation up the 
+global value chain as articulated in the National 
+Semiconductor Strategy. Malaysia’s foundations 
+are complemented by plans on renewable 
+energy, education and talent which are anchored 
+in MADANI principles that emphasises prosperity 
+and innovation.
+Under 
+the 
+Malaysia 
+MADANI 
+framework, 
+innovation must serve a higher purpose. This 
+proves the necessity for Made by Malaysia AI 
+capabilities, strengthening domestic innovation 
+and 
+positioning 
+Malaysian 
+enterprises 
+as 
+producers of advanced technologies, not just 
+users.
+Thus, AI Nation 2030 articulates Malaysia’s strategic 
+direction to realise an ambition that reaches 
+skyward but is deeply rooted in identity and 
+values. It sets out national priorities to strengthen 
+governance and policy alignment, develop future-
+ready talent, secure critical digital infrastructure, 
+embed responsible and ethical AI practices, and 
+foster sustained collaboration across government, 
+industry, academia, and society.
+This journey calls for collective confidence and 
+participation. Becoming an AI nation is to realise 
+a technological future where the nation can 
+acquire knowledge, achieve potential and be 
+imbued by values of humanity, while benefiting 
+from the productivity, creativity and possibilities 
+introduced by new technologies.
+I urge all Malaysians – across sectors, professions, 
+and communities – to take part in shaping an AI 
+future that reflects our values, strengthens our 
+resilience, and reinforces Malaysia’s standing in 
+the world.
+With unity of purpose and shared commitment, 
+we will harness AI as a force for progress, 
+opportunity, and national advancement.
+
+6
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+FOREWORD
+MINISTER
+OF DIGITAL
+YB Gobind Singh Deo
+AI Nation 2030 reflects Malaysia’s commitment to 
+move from aspiration to execution in building a 
+strong and sustainable AI ecosystem. It has been 
+shaped through extensive engagement with 
+industry, startups, researchers, academia, society 
+and the public sector, and informed by practical 
+insights on what is required to scale Artificial 
+Intelligence (AI) responsibly and effectively.
+These engagements point to the importance of 
+three focus areas: strengthening local capabilities, 
+enabling the development of Made by Malaysia 
+AI solutions, and establishing trust in the use of 
+AI. Together, they form the basis of a strategy that 
+supports innovation while addressing real-world 
+needs. 
+The strategy sets out clear priorities to accelerate 
+talent 
+development, 
+strengthen 
+digital 
+infrastructure, support startups and enterprises, 
+and expand public-private collaboration across 
+key sectors such as government, healthcare, 
+education, manufacturing and agriculture.
+Realising 
+these 
+priorities 
+requires 
+sustained 
+investment in technology, infrastructure, and 
+capabilities. The Government remains committed 
+to fostering a stable, trusted and innovation-
+supportive environment that provides clarity, 
+strengthens ecosystem confidence, and enables 
+long-term partnerships.
+AI Nation 2030 also advances trusted AI through 
+practical governance arrangements, appropriate 
+safeguards and responsible adoption, ensuring 
+that innovation progresses in tandem with security, 
+reliability and public confidence.
+This is supported by strengthened AI governance 
+and the implementation of the Akta Perkongsian 
+Data 2025 [Akta 864], alongside national data 
+sharing frameworks that enable secure and 
+trusted data exchange for AI adoption.
+The government will continue to work closely 
+with the ecosystem to translate this strategy 
+into measurable outcomes. Through consistent 
+implementation 
+and 
+partnership, 
+Malaysia 
+can build an AI ecosystem that is competitive, 
+trusted and anchored in local strengths, while 
+strengthening its role as a reliable AI partner 
+internationally.
+
+Ministry of Digital
+7
+FOREWORD
+SECRETARY 
+GENERAL 
+MINISTRY
+OF DIGITAL
+YBhg. Datuk Fabian Bigar
+AI Nation 2030 provides a common national 
+framework to guide the coordinated adoption of 
+Artificial Intelligence (AI) across the public sector. 
+Its implementation requires alignment across 
+ministries, agencies and state governments, 
+supported by consistent policies, shared standards 
+and clear delivery mechanisms.
+The Ministry of Digital, together with the AI 
+Malaysia (National AI Office) and other agencies, 
+is working to strengthen whole-of-government 
+coordination to enable responsible and effective 
+AI adoption. This includes aligning regulatory 
+approaches, facilitating data and capability sharing, 
+and integrating AI considerations into sectoral 
+planning and public service transformation.
+A key consideration throughout this process is 
+that AI adoption remains human-centred. Within 
+government, AI must be applied to augment 
+human capabilities, improve service delivery 
+and 
+support 
+better 
+decision-making, 
+while 
+safeguarding privacy, security and public trust.
+A key priority is advancing towards an AI-
+augmented public service that empowers civil 
+servants 
+through 
+intelligent 
+automation 
+to 
+enhance productivity, decision-making and service 
+delivery.
+AI Nation 2030 also supports a structured approach 
+to adoption, from capability development and 
+pilot deployment to scaling and continuous 
+improvement. This enables ministries and agencies 
+to plan and implement AI initiatives in a coherent 
+and sustainable manner.
+Through strong inter-agency collaboration and 
+disciplined execution, the public sector can 
+play a catalytic role in accelerating responsible 
+AI adoption across the economy. This will help 
+ensure that AI delivers practical value to citizens, 
+businesses and communities, while advancing 
+Malaysia’s digital transformation agenda.
+
+8
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+WHAT IS ARTIFICIAL 
+INTELLIGENCE (AI)?
+​Artificial Intelligence (AI) refers to machine-based 
+systems that generate outputs such as predictions, 
+recommendations, content or decisions based 
+on defined objectives, in alignment with OECD’s 
+internationally 
+recognised 
+definition1. 
+These 
+systems can operate with varying levels of 
+autonomy and can adapt over time as they learn 
+from data.
+AI spans a broad and evolving range of capabilities, 
+including:
+WHY AI MATTERS NOW?
+​The global AI landscape is undergoing rapid 
+structural 
+transformation, 
+presenting 
+both 
+significant opportunities and emerging risks for 
+Malaysia. These shifts underscore why a clear 
+national ambition, articulated through the National 
+AI Action Plan 2026-2030 (AI Nation 2030), is both 
+timely and necessary.
+Technological 
+advances 
+are 
+accelerating 
+AI 
+adoption across sectors. The rise of large, general-
+purpose models, alongside emerging forms of 
+Agentic AI, is lowering barriers to deployment 
+while increasing the scale, complexity and societal 
+impact of AI systems.
+At the same time, global and regional competition 
+is intensifying. Countries across ASEAN and 
+beyond are scaling investments in AI talent, 
+high-performance compute capacity and AI-
+focused industrial policies. Without an updated 
+and coordinated national response, Malaysia 
+faces heightened risks of talent outflows and 
+reduced attractiveness for AI-driven foreign direct 
+investment.
+AI development has also become a strategic and 
+geopolitical 
+consideration. 
+Decisions 
+relating 
+to data centre and compute infrastructure, 
+semiconductor supply chains and AI sovereignty 
+increasingly shape national competitiveness and 
+economic resilience, extending beyond purely 
+technological concerns.
+Taken together, these shifts elevate AI from a 
+technological trend to a strategic national priority. 
+The choices Malaysia makes today will determine 
+whether AI becomes a driver of sustained growth, 
+resilience and shared prosperity or a missed 
+opportunity in an increasingly competitive global 
+landscape.
+1	 OECD (2024), “Explanatory memorandum on the updated OECD definition of an AI system”, OECD Artificial Intelligence Papers, No. 8, 
+OECD Publishing, Paris, https://doi.org/10.1787/623da898-en.
+Machine Learning: Algorithms that learn 
+patterns and insights from data to support 
+prediction and classification tasks.
+Deep Learning: Neural network-based 
+systems capable of processing large, 
+complex datasets and automatically 
+identifying relevant features.
+Generative AI (GenAI): Models trained 
+on large-scale data that can create new 
+content such as text, images, audio or code.
+Agentic AI: An emerging class of systems 
+that runs tools in iterative loops to achieve 
+goals giving it a high-level of autonomy, 
+including the ability to plan, execute tasks 
+and make decisions, with significant 
+implications for governance, accountability 
+and work.
+QUICK FACTS
+
+Ministry of Digital
+9
+2	 An AI nation refers to a country with AI-technology integrated holistically as the main thrust in socioeconomic development, national 
+administration and daily lives of the societies. Source: RMK-13 Main document.
+WHAT IS THE AI NATION ASPIRATION?
+The AI Nation aspiration, as articulated in the Thirteenth Malaysia Plan (RMK-13), positions Artificial 
+Intelligence (AI) as a core driver of Malaysia’s next phase of national development. An AI Nation is one in 
+which AI technologies are integrated holistically across socioeconomic development, public administration, 
+and the daily lives of citizens.
+This direction is reinforced by the National Fourth Industrial Revolution (4IR) Policy and the Malaysia Digital 
+Economy Blueprint, which support advanced technology adoption and a data-driven economy. Prime 
+Minister Datuk Seri Anwar Ibrahim has emphasised that Malaysia must shape its own AI future through 
+homegrown solutions that reflect national values and deliver meaningful benefits.
+By 2030, Malaysia aspires to become a Regional Digital Technology Hub and a producer of globally 
+competitive Made by Malaysia AI products and services that is Inclusive and Sustainable. This aspiration 
+places equal emphasis on economic competitiveness, inclusive growth, responsible governance, and societal 
+empowerment, ensuring that AI adoption delivers broad-based national value rather than narrow sectoral 
+gains.
+The National AI Action Plan 2026-2030 (AI Nation 2030)
+supports the achievement of the AI Nation aspiration
+RMK-13 defined aspiration 
+for Malaysia to become an AI 
+Nation2 by 2030...
+...with AI Nation 2030’s
+targeted outcomes supporting 
+the AI Nation aspiration 
+Regional Digital 
+Tech Hub
+Producing 
+products and 
+services Made
+by Malaysia
+An Inclusive, 
+Sustainable
+AI Nation
+Empowered 
+society
+Inclusive 
+growth
+Responsible 
+AI governance
+Globally 
+competitive
+via National AI 
+capabilities
+Widespread 
+adoption of AI
+Figure 1: Malaysia’s AI Nation Aspiration and Target Outcomes under RMK-13.
+
+PART 1:
+THE NATIONAL AI 
+STRATEGIC CONTEXT
+
+Ministry of Digital
+11
+MALAYSIA’S STARTING 
+POINT: EMERGING AI 
+LEADER
+Malaysia enters the AI Nation 2030 phase from 
+a position of relative strength. Through the AI 
+Roadmap 
+2021-2025 
+(AI-Rmap), 
+the 
+country 
+established 
+its 
+first 
+structured 
+national 
+AI 
+framework and positioned AI as a strategic priority 
+for economic development and innovation. This 
+initial phase focused on building foundational 
+enablers, including governance, research and 
+development, 
+digital 
+infrastructure, 
+talent 
+development, AI acculturation and ecosystem 
+activation.
+These efforts contributed to steady improvements 
+in Malaysia’s government AI readiness ranking 
+between 2021 and 2024, performing ahead of 
+many ASEAN peers. Malaysia’s approach has 
+also emphasised responsible and values-driven 
+adoption, ensuring AI deployment supports social 
+cohesion, ethical responsibility and public trust.
+AI is increasingly applied to narrow development 
+gaps, support SMEs, expand opportunities in 
+rural and underserved communities, and improve 
+access to healthcare, education and public 
+services. However, despite this progress, Malaysia 
+has yet to transition into large-scale, multi-sector 
+AI deployment. Material gaps remain in advanced 
+talent depth, private investment mobilisation 
+and 
+research-to-commercialisation 
+pathways. 
+Addressing these gaps is critical to avoid stagnation 
+at the “contender” level and to unlock the next 
+phase of AI-driven national impact.
+LESSONS FROM AI 
+ROADMAP 2021-2025
+Experience from the AI Roadmap 2021–2025 
+demonstrates that policy design and execution are 
+decisive multipliers in AI adoption. The roadmap 
+successfully established foundational enablers 
+that strengthen national readiness and ecosystem 
+awareness.
+ALIGNING AI NATION 
+2030 WITH NATIONAL 
+DEVELOPMENT 
+PRIORITIES
+The National AI Action Plan 2026-2030 (AI Nation 
+2030) is intentionally designed to align with 
+Malaysia’s 
+core 
+national 
+policy 
+frameworks, 
+ensuring coherence, continuity and execution 
+efficiency. Rather than operating as a standalone 
+agenda, the AI Nation 2030 functions as an 
+integrative layer across national development 
+priorities.
+The 
+AI 
+Nation 
+2030 
+directly 
+supports 
+the 
+Thirteenth Malaysia Plan (RMK-13) aspiration 
+for Malaysia to become an AI Nation, reinforces 
+the National Fourth Industrial Revolution (4IR) 
+Policy by accelerating advanced technology 
+adoption, innovation and productivity gains across 
+priority sectors, and builds on the Malaysia Digital 
+Economy Blueprint (MDEB) thrusts to drive 
+digital leadership, strengthen inclusive growth 
+and coordinated public-private implementation.
+This alignment ensures that AI adoption is 
+coherent, 
+well-governed 
+and 
+translates 
+into 
+measurable impact across national development 
+priorities.
+As implementation progressed, opportunities 
+emerged to strengthen coordination, evolve 
+funding models and sharpen outcome-focused 
+targets to accelerate ecosystem activation and 
+deliver measurable impact. The National AI 
+Action Plan 2026-2030 (AI Nation 2030) responds 
+directly to these insights by shifting toward a 
+more coordinated, outcome-oriented approach. 
+It prioritises clearer strategic linkages, targeted 
+resource 
+allocation 
+and 
+catalytic 
+initiatives 
+designed to deliver visible improvements across 
+priority sectors.
+This marks a deliberate transition from building 
+readiness to delivering results, ensuring that AI 
+policy functions as an engine for sustained value 
+creation rather than a collection of standalone 
+initiatives.
+
+PART 2:
+THE ACTION PLAN 
+FRAMEWORK
+
+Ministry of Digital
+13
+THE AI NATION 2030 ARCHITECTURE
+The National AI Action Plan 2026-2030 (AI Nation 2030)
+Strategic Framework covers the Vision, , 2030 Targets, Impact Engines and Foundational Enablers
+Vision grounded 
+in Malaysia’s 
+unique strengths
+AI Nation 
+The vision of AI Nation 2030 is to realise a value-driven nation that advances inclusive 
+growth, sustainability and the well-being of the Rakyat
+Vision
+Global AI Index: Top 10
+GDP Growth: +1.2 p.p. attributable to AI
+Jobs Created: 300,000 attributable to AI
+2030 Targets
+Establish sectoral 
+impact engines 
+to drive purposeful 
+adoption of AI, to 
+secure social and 
+economic benefits
+Impact Engines
+Sector priorities 
+Targeted activation of AI in
+priority sectors
+Cross-sector priorities
+Common platforms and
+capabilities powering safe
+and secure innovation
+Provide the right 
+foundations to 
+drive widespread 
+adoption 
+and unlock 
+investments
+Foundational Enablers
+Globally 
+competitive 
+human capital 
+Talent and 
+skills pipeline 
+to thrive in an 
+AI-driven and 
+AI-augmented
+job market
+Market-driven 
+innovation 
+and adoption
+Activating 
+ecosystem 
+pathway from 
+lab to market, 
+anchored on 
+regional
+AI Growth 
+Zones
+Data and 
+Compute 
+infrastructure
+Environment 
+that 
+accelerates 
+and scale up 
+creation of
+“AI-fuel”
+Trust via 
+Responsible 
+Governance
+Balancing 
+innovation, 
+responsible 
+use and 
+national 
+priorities
+Sustainable 
+Funding and 
+Investment
+Coordinated 
+mechanisms 
+to ensure 
+productive 
+capital 
+allocation
+The National AI Action Plan 2026-2030 (AI Nation 2030) is structured around a clear, layered framework that 
+links national ambition to execution. At the apex is the AI Nation Vision, which sets the long-term aspiration. 
+This is translated into action through Impact Engines that drive targeted adoption and outcomes across 
+priority sectors. These efforts are underpinned by Foundational Enablers that provide the system-wide 
+capabilities, infrastructure, and governance needed to sustain adoption at scale.
+Together, this architecture ensures that AI policy moves cohesively from vision to delivery while maintaining 
+alignment, accountability, and national impact.
+Figure 2: The AI Nation 2030 Architecture.
+
+14
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+VISION: TOWARDS A VALUE-DRIVEN AI NATION
+The vision of the AI Nation 2030 is to realise an Inclusive and Sustainable AI Nation. It seeks to ensure that 
+Artificial Intelligence is adopted responsibly to strengthen national competitiveness, support sustainability, 
+and encourage local innovation and production.
+This vision recognises that technological progress must be balanced with trust, effective governance, and 
+positive societal outcomes. AI adoption is therefore not an end in itself but a means to deliver inclusive 
+growth, national resilience, and long-term value for Malaysia.
+MISSION: DELIVERING MEANINGFUL AI TRANSFORMATION
+The mission of AI Nation 2030 is to deploy AI systematically across Government, Business, and the Rakyat 
+translating technological capability into tangible and measurable benefits.
+This mission reinforces a whole-of-nation approach, ensuring that AI deployment is demand-led, impact-
+focused, and aligned with real needs.
+Rakyat
+To empower citizens 
+through improved access 
+to services, enhanced 
+quality of life, and 
+meaningful socioeconomic 
+transformation.
+Business
+To provide an innovation 
+springboard that enables 
+Malaysian firms to scale, 
+compete globally, and 
+participate in higher-
+value segments of the AI 
+economy.
+Government
+To function as a catalyst 
+for the AI Nation through 
+an AI-augmented civil 
+service that improves 
+service delivery, policy 
+effectiveness, and 
+administrative efficiency.
+2030 TARGETS
+By 2030, AI Nation 2030 aims to position Malaysia among the Top 10 in recognised Global AI Indices, while 
+delivering measurable economic and employment market impact through AI adoption. This includes 
+achieving up to 1.2 percentage points of incremental GDP growth attributable to AI and supporting the 
+creation of up to 300,000 new jobs attributable to AI by 2030. These targets reflect Malaysia’s ambition to 
+translate responsible and purposeful AI adoption into stronger national competitiveness, higher productivity, 
+a more future-ready workforce, and long-term value creation for the country.
+
+Ministry of Digital
+15
+SHAPING HUMAN-CENTRIC 
+AI
+In line with the Prime Minister’s MADANI vision, 
+the AI Nation 2030 positions AI as a force for good. 
+Human-centric AI principles guide the framework, 
+ensuring that AI adoption strengthens social 
+cohesion, respects cultural integrity, and upholds 
+ethical responsibility.
+Malaysia recognises that ethics and responsible 
+governance must be central to AI adoption 
+to safeguard the public interest and sustain 
+confidence in the technology. Accordingly, AI 
+Nation 2030 recognises and builds upon the 
+National Guidelines on AI Governance and Ethics 
+(AIGE)3 and its seven ethical principles. It further 
+aims to operationalise these principles to support 
+practical implementation across sectors.
+AI is expected to help bridge development divides, 
+empower small and medium enterprises, uplift 
+rural and underserved communities, and expand 
+access to services including healthcare, education, 
+and public delivery. This approach safeguards 
+against adoption driven purely by efficiency, which 
+could otherwise widen inequality or weaken public 
+trust.
+STRATEGIC POLICY SHIFTS
+To move from foundational readiness to sustained 
+national impact, the AI Nation 2030 is anchored on 
+five Strategic Policy Shifts. These shifts define the 
+critical changes required to accelerate AI adoption, 
+address persistent ecosystem gaps, and ensure 
+that AI delivers measurable public and economic 
+value.
+These shifts provide clear national direction on 
+what must change to enable AI to scale responsibly 
+and competitively across the economy:
+Together, these Strategic Policy Shifts reposition 
+AI policy from building capabilities in isolation to 
+delivering sustained execution, coordination, and 
+national impact.
+3	 Ministry of Science, Technology and Innovation (MOSTI), The National Guidelines on AI Governance & Ethics (AIGE) Putrajaya: Government 
+of Malaysia, 2023.
+Global Talent
+Expanding access to world-class AI 
+expertise by attracting, engaging, and 
+retaining global and local talent to support 
+Malaysia’s AI agenda, wherever they are.
+Market-Led Innovation
+Accelerating the translation of research to 
+drive economic impact  by coordinating 
+industry, academia, and government.
+High-Value Data
+Unlocking innovation by developing priority 
+national datasets through public–private 
+collaboration while ensuring secure and 
+trusted data sharing.
+Responsible Governance
+Establishing clear safeguards to ensure AI 
+is developed and deployed in a trustworthy, 
+ethical, and secure manner.
+Government as Catalyst for AI
+Drive AI adoption and productivity by 
+growing a strong local, Made by Malaysia AI 
+ecosystem.
+
+16
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+CATALYTIC 
+INITIATIVES 
+DELIVERING 
+FAST-TRACK RESULTS
+To ensure the AI Nation 2030 (National AI Action Plan 2026–2030) delivers 
+immediate and visible value, the Government adopts a tiered implementation 
+approach centred on Catalytic Initiatives. These are high-impact projects 
+designed to act as early “igniters” of the national AI ecosystem.
+Catalytic Initiatives are selected based on three rigorous criteria:
+Unlike standard initiatives, Catalytic Initiatives operate under a “Fast Track” 
+delivery model and are prioritised for immediate funding mobilisation. They 
+serve as early “Lighthouses”, generating foundational datasets and use cases 
+that encourage wider private sector participation.
+Broad-Based Societal Impact
+Projects must benefit a wide segment of the population, enabling 
+citizens to experience the AI Nation through improved public 
+services or healthcare.
+Rapid Speed-to-Outcome
+Projects must be capable of delivering measurable results within a 
+two-year timeframe to demonstrate early proof of value.
+High Degree of Control
+Projects must leverage direct public sector assets such as 
+government data or infrastructure to reduce market friction and 
+accelerate deployment.
+
+Ministry of Digital
+17
+
+PART 3:
+IMPACT ENGINES: 
+DRIVING SECTORAL 
+TRANSFORMATION
+
+Ministry of Digital
+19
+Societal Impact Sectors,
+including Healthcare, Education, Agrofood, 
+AI Cities and Public Services, where AI 
+delivers broad public value by improving 
+access, strengthening food security, and 
+quality of life.
+Economic Impact Sectors,
+such as Manufacturing, Oil and Gas, and 
+Power Utility where AI adoption can 
+deliver large-scale productivity gains, and 
+contribute significantly to GDP.
+IMPACT ENGINES
+Impact Engines are targeted strategies designed to accelerate AI adoption in high-impact sectors of the 
+Malaysian economy by translating national AI ambition into concrete, sector-specific transformation.
+Each Impact Engine is structured to create a closed-loop ecosystem in which data, talent, infrastructure and 
+AI solutions reinforce one another. This approach ensures that AI adoption drives productivity, innovation, 
+and long-term competitiveness.
+The selection of Impact Engines reflects two complementary priorities:
+
+20
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+IMPACT ENGINE DELIVERY MODELS
+To ensure clear accountability and effective delivery, initiatives are structured according to their primary 
+development and leadership models.
+Industry Champion-Led 
+Initiatives
+operate in more mature 
+sectors and enable direct 
+collaboration between 
+government and industry 
+leaders in areas such as 
+Power Utility, Oil and Gas, 
+Financial Services, and 
+Telecommunications. This 
+approach ensures sector-
+specific expertise drives 
+implementation while 
+delivering national-level 
+benefits.
+Public-Private Partnership 
+(PPP) Initiatives
+bring together government 
+and industry to transform 
+foundational sectors 
+such as Manufacturing, 
+Plantation, and Micro, 
+Small and Medium 
+Enterprises (MSMEs).
+Government-Initiated 
+Initiatives
+focus on national priorities 
+and public service 
+outcomes, including 
+Healthcare, AI Cities, 
+Public Services, Education, 
+Agrofood, and the Local AI 
+Ecosystem.
+
+Ministry of Digital
+21
+For Government-initiated and PPP-led initiatives, implementation follows a structured progression pathway 
+to support sustained transformation:
+Transform Phase
+Embeds successful 
+initiatives at scale, 
+reshaping entire sectors 
+and advancing the long-
+term vision of an AI-
+augmented economy that 
+delivers both economic 
+growth and societal value.
+Scale Phase
+Expands proven solutions 
+into broader, system-level 
+implementation.
+Ignite Phase
+Launches initial pilots to 
+address priority sector-
+specific needs and 
+establish early momentum.
+
+22
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+HOW IMPACT ENGINES OPERATE: THE AI ADOPTION 
+CLOSED LOOP
+Each Impact Engine operates through a standardised AI Adoption Closed Loop, which serves as the core 
+operating mechanism, particularly for Government-initiated and Public–Private Partnership (PPP) initiatives. 
+Rather than a linear rollout, this mechanism creates a self-reinforcing cycle in which sectoral demand, data 
+generation, solution development and ecosystem capability reinforce one another.
+Figure 3: The AI Adoption Closed Loop – illustrates how this closed-loop model underpins each Impact Engine, ensuring AI adoption is 
+continuous, purpose-led, and scalable.
+Problem-led solution
+Use cases defined to address
+sector-specific needs
+Relevant technology solutions
+Use cases to be adjusted as per pace
+of technology development
+Adoption loop for each sector to be tailored, to ensure:
+A
+I
+ 
+A
+D
+O
+P
+T
+I
+O
+N
+ 
+C
+L
+O
+S
+E
+D
+ 
+L
+O
+O
+P
+Us
+e-
+c
+as
+e 
+de
+liv
+er
+ed
+ +
+ tr
+an
+sf
+or
+m 
+pr
+oc
+es
+s /
+Of
+fe
+re
+d 
+as
+ v
+al
+ue
+ p
+ro
+po
+si
+ti
+on
+ t
+o 
+AI
+ c
+o
+m
+pa
+ny
+op
+er
+at
+in
+g 
+m
+od
+el
+In
+ce
+nt
+iv
+is
+e 
+m
+or
+e 
+da
+ta
+ c
+on
+tr
+ib
+ut
+io
+n
+Build
+high-quality 
+dataset
+1
+Train and 
+deploy AI 
+products
+2
+En
+ha
+nc
+e A
+I I
+nfr
+a. 
+an
+d 
+de
+ve
+lop
+ ta
+le
+nt  
+    
+ En
+a
+bli
+ng 
+ac
+ce
+ler
+at
+ed
+ A
+I d
+ev
+elo
+p
+m
+en
+t
+Deliver 
+benefits to 
+users
+3
+
+Ministry of Digital
+23
+By applying this closed-loop model, Impact Engines ensure that AI adoption delivers lasting sectoral impact, 
+strengthens Malaysia’s AI ecosystem and supports the transition from AI consumer to value-adding producer.
+The closed loop comprises four interlinked stages:
+Build High-Quality Data
+Sector-relevant, high-quality datasets are developed and made 
+accessible to support AI development based on real-world use 
+cases.
+Train and Deploy AI Solutions
+AI solutions are developed and deployed to address defined use 
+cases and improve processes, service and operating models.
+Deliver Benefits to Users
+AI applications generate tangible benefits for users, encouraging 
+adoption, additional data contribution and stronger participation 
+for AI companies, start-ups and MSMEs.
+Enhance AI Infrastructure and Develop Talent
+Ongoing investment in AI infrastructure, compute capacity and 
+talent enables more advanced use cases and the next cycle of 
+innovation.
+
+24
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+*
+Catalytic Initiatives
+14 Leading Initiatives Across Strategic Sectors (AI Impact Engines)
+Development 
+Category
+Sector
+Initiatives
+Government-Initiated 
+Impact Engines
+Healthcare
+I1:	 AI to Prevent, Diagnose and Advance Clinical 
+Discovery *
+AI Cities
+I2:	 Scalable AI City Solutions *
+Public Services
+I3:	 Reimagined Government-to-Rakyat 
+Interactions *
+Public Sector
+I4:	 AI-augmented Government that Works 
+Smarter
+Education
+I5:	 Personalised Learning for Tertiary Education
+Agrofood
+I6:	 Scalable Agristack
+Cross-Sector
+I7:	 Secure and Localised AI Ecosystem for 
+Malaysia
+Public-Private 
+Partnership (PPP) 
+Impact Engines
+Manufacturing
+I8:	 AI Hub for the Manufacturing Ecosystem
+Plantation
+I9:	 AI Platform for Smallholder Empowerment
+AI for MSMEs
+I10:	Modular Resources for MSMEs
+Industry Champion-Led 
+Impact Engines
+Power Utility
+I11:	 AI for a Green Energy Future
+Oil & Gas
+I12:	Modernising the OGSE Ecosystem
+Financial Services
+I13:	Growth, Inclusion and Security
+Telecommunications
+I14.	Empowering Malaysia’s AI Infrastructure
+
+Ministry of Digital
+25
+CATALYTIC IMPACT ENGINES INITIATIVES
+While the AI Nation 2030 comprises 14 Impact Engines, three are designated as high-priority Catalytic 
+Initiatives in the initial Ignite phase. These initiatives are prioritised because they address national priorities 
+directly and leverage public sector leadership to bypass market friction and deliver early proof-of-value.
+The Catalytic Impact Engine Initiatives are:
+ACCELERATING AI ADOPTION ACROSS PRIORITY SECTORS 
+THROUGH IMPACT ENGINES
+Impact Engines translate national strategy into real-world results by embedding AI in priority sectors. 
+Each engine focuses on delivering measurable improvements in productivity, services, and quality of life, 
+supported by foundational enablers and a structured pathway from pilot to large-scale adoption.
+These initiatives operate under a fast-track delivery model and are prioritised for early funding mobilisation. 
+They serve as early lighthouses, generating foundational datasets and use cases that stimulate broader 
+private sector participation.
+AI to prevent disease, 
+improve diagnosis and 
+advance clinical discovery
+Scalable AI city solutions to 
+improve urban mobility and 
+livability
+I1
+I2
+I3
+Healthcare
+AI Cities
+Public Services
+Reimagined government-
+to-citizen interactions 
+through AI
+
+26
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+Government-Initiated Impact Engines form a core delivery category under Malaysia’s AI Nation 2030 (National 
+AI Action Plan 2026–2030), focusing on national priorities and public service outcomes. These initiatives are 
+led by the government and implemented either directly or through structured public-private collaboration, 
+leveraging public sector data, infrastructure, and regulatory authority to accelerate AI adoption at scale. 
+By addressing high-impact areas such as healthcare, education, public services, cities, and agrofood, these 
+Impact Engines turn national strategy into real improvements in quality of life, reducing inefficiencies and 
+ensuring that every Rakyat experiences tangible benefits from AI adoption.
+HEALTHCARE: AI TO PREVENT, DIAGNOSE AND ADVANCE CLINICAL DISCOVERY
+I1
+	 Overview
+AI in Healthcare leverages high-quality national health data to build a closed-loop system that 
+progressively expands across the healthcare service. 
+Through the deployment of AI-powered diagnostics and population health management tools, this 
+approach improves clinical outcomes and clinician productivity while enabling earlier detection and 
+prevention of chronic diseases. 
+Over time, the healthcare system will transition towards a fully integrated, AI-powered model that 
+accelerates medical discovery and strengthens long-term societal well-being.
+	 Target End-State
+An integrated AI-powered healthcare system that improves the quality and efficiency of healthcare 
+services, advances preventive care, strengthens societal well-being, and positions Malaysia as ASEAN’s 
+regional hub for AI and clinical research.
+Ministry of Health
+	 Key Lead
+Ministry of Health
+Public and private hospitals
+	 Proposed Data Providers
+GOVERNMENT-INITIATED
+IMPACT ENGINES
+
+Ministry of Digital
+27
+	 Healthcare Intended Outcomes
+Higher Clinician 
+Productivity
+Greater Access to Advanced 
+Treatments
+Moving Up the Value Chain
+Achieve a 16-40% productivity 
+gain for radiologists, enabling 
+faster and more accurate 
+diagnoses.
+Increase diagnostic 
+accuracy by more than 10% 
+and provide citizens with 
+earlier access to innovative 
+therapies.
+Attract Foreign Direct 
+Investment (FDI) and 
+increase service export 
+revenue through clinical 
+trial hosting and the 
+development of a strong 
+talent ecosystem.
+Healthier citizens with
+targeted advice
+Data-driven policy and 
+planning
+Unlock capacity and 
+efficiency across the health 
+system
+Enable timely, personalised 
+health guidance to prevent 
+the onset of chronic diseases.
+Optimise community health 
+programme and optimise 
+resource allocation
+Prevent costly Non-
+Communicable Diseases 
+(NCD) complications early to 
+free up resources and refocus 
+on higher-impact needs
+	 Implementation Approach
+Ignite
+Scale
+Transform
+•	 Launch AI diagnostics 
+in radiology, focusing on 
+domains that are most 
+ready for AI adoption and 
+supported by high-quality 
+local validation datasets.
+•	 Identify pre-NCD 
+populations through risk 
+segmentation and deliver 
+personalised “preventive 
+nudges” via digital 
+engagement platforms.
+•	 Expand AI diagnostic 
+applications to additional 
+clinical domains, including 
+pathology and cardiology.
+•	 Establish a nationwide NCD 
+surveillance system to map 
+regional risk patterns and 
+refine interventions based 
+on real-world outcomes.
+•	 Evolve the sector into an AI-
+enabled Clinical Research 
+Engine that powers real-
+world, multi-site global 
+trials through advanced 
+execution capabilities.
+•	 Provide frontline healthcare 
+providers with real-time, 
+AI-generated patient 
+summaries.
+
+28
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+GOVERNMENT-INITIATED
+IMPACT ENGINES
+AI CITIES: SCALABLE AI CITY SOLUTIONS
+I2
+	 Overview
+AI Cities builds on existing Smart City initiatives by adding an intelligence layer to physical, Internet of 
+Things (IoT) and communications infrastructure.
+The initiative positions cities as concentrated living labs and testbeds for deploying integrated AI 
+solutions that address real-world urban challenges. By establishing interoperable urban technology 
+stacks, Malaysia can digitally connect multiple modes of transport and unlock data at scale to support 
+seamless urban transformation.
+Ultimately, AI Cities enables smarter decision-making through real-time mobility insights and more 
+proactive urban planning.
+	 Target End-State
+Malaysia is positioned as a leading regional AI city powerhouse that delivers exceptional, Rakyat-centric 
+services.
+Ministry of Digital
+	 Key Lead
+Smart city and urban technology solution providers
+	 Solution Providers
+City governments, local authorities, and relevant federal government agencies
+	 Proposed Data Providers
+
+Ministry of Digital
+29
+	 AI Cities Intended Outcomes
+Seamless Urban 
+Transformation
+Smarter Decision-Making
+Improved Urban Liveability
+Shorten commutes and 
+improve traffic flow, saving 
+up to 44 hours per month in 
+travel time.
+Enable government access to 
+real-time, integrated mobility 
+data for proactive planning 
+and faster responses.
+Enhance quality of life, 
+making cities more attractive 
+to families, businesses, and 
+investors.
+	 Implementation Approach
+Ignite
+Scale
+Transform
+Establish city-centric end-
+to-end  AI mobility stacks 
+connected to a National 
+Smart City Command, 
+beginning in major 
+cities where enabling 
+infrastructure is already in 
+place.
+Mature the end-to-end and 
+mobility stacks in the initial 
+pilot cities while broadening 
+impact into system-
+level implementation by 
+completing the full AI stack 
+and generating cross-city 
+insights through the national 
+platform.
+Realise a nationwide 
+interoperable urban 
+technology stack by scaling 
+proven AI City solutions to 
+other regions, expanding into 
+diverse smart technology 
+stacks tailored to urban 
+priorities, including safety, 
+security, energy, and 
+environmental management.
+
+30
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+GOVERNMENT-INITIATED
+IMPACT ENGINES
+PUBLIC SERVICES: REIMAGINED GOVERNMENT-TO-RAKYAT INTERACTIONS
+I3
+	 Overview
+Public Services reimagines how citizens interact with government services. Leveraging MyDigital ID and 
+the MyGOV Malaysia platform, it introduces a unified AI interface that enables personalised, always-on, 
+and secure public services, improving accessibility, efficiency, and trust. By integrating services across 
+agencies and enabling secure data exchange, the platform reduces fragmentation and simplifies how 
+citizens access information, benefits, and transactions, allowing services to respond faster and more 
+effectively to public needs.
+	 Target End-State
+Seamless public services delivered through a unified, multimodal government AI interface powered by 
+agentic AI.
+Ministry of Digital
+•	 Jabatan Digital Negara
+	 Key Lead
+Foundation model providers and GovTech Malaysia Technical Team
+	 Proposed Solution Providers
+Relevant ministries and government agencies
+	 Proposed Data Providers
+
+Ministry of Digital
+31
+	 Public Services Intended Outcomes
+Higher Citizen Satisfaction
+Operational Efficiency
+Hyper-Personalisation
+Achieve up to a 45% increase 
+in citizen satisfaction through 
+always-on, context-aware 
+government services.
+Reduce service delivery 
+costs by 20–30% through 
+AI-supported knowledge 
+management and agentic AI 
+task orchestration.
+Deliver secure, multimodal, 
+and multilingual experiences 
+that simplify complex service 
+journeys for every Rakyat.
+	 Implementation Approach
+Ignite
+Scale
+Transform
+Launch a unified AI citizen 
+interface on MyGOV Malaysia, 
+integrated with MyDigital ID, 
+starting with high-impact 
+services such as taxation and 
+licensing to enable seamless 
+onboarding and digital 
+transactions.
+Provide tailored and 
+multilingual digital 
+experience for Rakyat by 
+integrating data across 
+ministries, enabling proactive 
+solutions that improve daily 
+life.
+Simplify Rakyat interactions 
+through a single-entry AI 
+assistant that leverages 
+Agentic AI to navigate 
+complex processes and 
+complete tasks on users’ 
+behalf, enabling the platform 
+to deliver context-aware 
+support at every step.
+
+32
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+GOVERNMENT-INITIATED
+IMPACT ENGINES
+PUBLIC SECTOR: AI-AUGMENTED GOVERNMENT THAT WORKS SMARTER
+I4
+	 Overview
+The public sector enhances how civil servants work by empowering them with secure, purpose-built AI 
+solutions. As AI becomes mainstream, the focus shifts from generic tools to trusted, context-aware AI 
+systems capable of handling the government’s vast and complex datasets.
+By embedding AI into daily workflows, the public sector can move beyond optimising routine processes 
+towards a broader transformation of administrative and cross-sector functions. This data-driven approach 
+enables policy simulation and real-time decision support, ensuring the government remains agile and 
+responsive to national challenges.
+	 Target End-State
+Public officers are empowered by AI to work smarter, more efficiently and respond proactively to 
+increasingly complex national challenges.
+Ministry of Digital
+•	 Jabatan Digital Negara
+	 Key Lead
+Foundation model providers and GovTech Malaysia Technical Team
+	 Proposed Solution Providers
+Relevant ministries and government agencies
+	 Proposed Data Providers
+
+Ministry of Digital
+33
+	 Public Sector Intended Outcomes
+Do More with Less
+Higher Public Servant Job 
+Satisfaction
+Data-Driven Policymaking
+Achieve a 35% reduction 
+in budget costs across 
+impacted areas over a
+ten-year period.
+Free up 30% of civil servant 
+capacity from repetitive 
+administrative tasks, 
+enabling greater focus on 
+higher-value strategic work.
+Enable faster, more citizen-
+focused policies through 
+AI-enabled analysis of large 
+datasets, insight generation, 
+and scenario simulation.
+	 Implementation Approach
+Ignite
+Scale
+Transform
+Focus on AI for everyday 
+productivity by scaling “AI@ 
+Work” to support tasks 
+such as meeting minutes, 
+presentation preparation, 
+and email drafting by 
+building user adoption and 
+enables model fine-tuning 
+using trusted sovereign AI.
+Advance towards functional 
+transformation by pairing 
+AI tools with process and 
+operating model changes 
+targeting administration-
+heavy and priority functions 
+such as procurement, 
+grants management, and 
+parliamentary response 
+workflows.
+Enable AI for effective 
+policymaking by leveraging 
+anonymised, multi-agency 
+data sets by using AI to 
+support complex policy 
+simulations and generate 
+data-driven briefings and 
+strategic recommendations.
+
+34
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+GOVERNMENT-INITIATED
+IMPACT ENGINES
+EDUCATION: PERSONALISED LEARNING FOR TERTIARY EDUCATION
+I5
+	 Overview
+Education advances educator capability and student learning outcomes through the strategic 
+integration of AI tools. Foundational learning data systems enable personalised academic and career 
+guidance tailored to each student’s strengths, needs, and aspirations.
+AI-empowered educators are supported with tools that enhance teaching quality, while adaptive 
+learning platforms dynamically adjust content based on student performance and learning patterns. 
+Over time, this approach helps close quality gaps across institutions, improves graduate outcomes, and 
+strengthens Malaysia’s competitiveness as a regional higher education hub.
+	 Target End-State
+Position Malaysia as the regional benchmark for AI-powered tertiary education, unlocking every student’s 
+potential and driving system-wide academic excellence.
+Ministry of Higher Education
+	 Key Lead
+Foundation model providers and GovTech Malaysia Technical Team
+	 Proposed Solution Providers
+Public and private universities and learning management system (LMS) service providers
+	 Proposed Data Providers
+
+Ministry of Digital
+35
+	 Education Intended Outcomes
+Advanced Educator 
+Capability
+Maximised Learning Impact
+Elevated Regional 
+Competitiveness
+Boosting teaching quality 
+with AI-driven content 
+development, grading 
+support, and learning 
+analytics to foster a system-
+wide uplift in standards.
+Delivering adaptive learning 
+pathways and career 
+coaching aligned with 
+individual student strengths 
+and needs.
+Enhancing academic 
+reputation positions Malaysia 
+as a preferred destination 
+for AI-integrated higher 
+education.
+	 Implementation Approach
+Ignite
+Scale
+Transform
+Provide AI-driven support 
+tools, beginning with 
+STEM subjects to build 
+foundational learning data 
+systems that enable adaptive 
+learning.
+Roll out adaptive learning 
+platforms that deliver 
+personalised curriculum 
+content based on 
+student performance and 
+engagement data. 
+Achieve a fully integrated 
+system where AI supports 
+holistic academic and 
+career guidance. Maximise 
+learning outcomes by 
+helping students identify 
+best-fit career pathways 
+and adapting to individual 
+strengths and needs.
+
+36
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+GOVERNMENT-INITIATED
+IMPACT ENGINES
+AGROFOOD: SCALABLE AGRISTACK
+I6
+	 Overview
+Agrofood focuses on building foundational capabilities to leverage data for the purpose of enabling 
+AI-driven precision farming and predictive analytics, empowering farmers to optimise inputs, improve 
+yields, and reduce losses.
+This data-driven approach modernises traditional farming practices through more accurate yield 
+forecasting, early pest and disease detection, and better-informed decision-making. Over time, AI-
+integrated agriculture strengthens national food self-sufficiency and positions Malaysia as a regional 
+leader in tropical agritech innovation.
+	 Target End-State
+A more self-sufficient nation, supported by an empowered and innovative Agritech ecosystem.
+Ministry of Agriculture and Food Security
+	 Key Lead
+Farmers and producer groups, universities and research institutions, Malaysian Good Agricultural Practice, 
+and civil society organisations
+	 Proposed Data Providers
+
+Ministry of Digital
+37
+	 Agrofood Intended Outcomes
+Enhancing Farmer 
+Livelihood
+Creation of Agritech
+Enhanced Food Security
+Improve farmer livelihood 
+levels through AI-optimised 
+yield while saving resources 
+and time for farmers.
+Facilitates AI solutions 
+development in the 
+ecosystem from the new and 
+readily available data. 
+Advance national food self-
+sufficiency while reducing 
+import reliance.
+	 Implementation Approach
+Ignite
+Scale
+Transform
+Establish foundation by 
+integrating data to launch 
+AI-driven pilots for precision 
+irrigation and fertilisation 
+in selected paddy and 
+vegetable clusters, validating 
+yield and efficiency gains 
+to advance nationwide 
+agricultural transformation.
+Integrate relevant data sets 
+such as weather analytics 
+and automated pest 
+detection to cover a broader 
+range of crops, including 
+vegetables and fruits.
+Leverage holistic datasets 
+to enable a fully data-driven 
+agricultural ecosystem.
+
+38
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+GOVERNMENT-INITIATED
+IMPACT ENGINES
+CROSS-SECTOR: SECURE AND LOCALISED AI ECOSYSTEM FOR MALAYSIA
+I7
+	 Overview
+This Impact Engine focuses on building a secure, AI ecosystem anchored in Malaysia’s data, values, and 
+capabilities. By developing an AI stack comprising trusted local datasets, indigenous AI models, and 
+secure compute infrastructure, Malaysia ensures that sensitive national data remains under domestic 
+control.
+The initiative prioritises AI systems that are culturally, linguistically, and contextually aligned with 
+Malaysian society. In doing so, it strengthens national security and digital resilience while nurturing a 
+competitive ecosystem of local AI innovators capable of scaling regionally and globally.
+	 Target End-State
+An AI ecosystem rooted in local strengths, delivering trusted and inclusive services while supporting 
+resilient, homegrown innovation.
+Ministry of Digital
+•	 Jabatan Digital Negara
+	 Key Lead
+Respective ministries, Dewan Bahasa dan Pustaka (DBP), media organisations.
+	 Proposed Data Providers
+
+Ministry of Digital
+39
+	 Cross-Sector Intended Outcomes
+Enhanced Local AI 
+Ecosystem Autonomy
+Building Malaysia’s 
+Homegrown AI Industry
+Cultural Aligned and 
+Inclusive AI Services
+Broaden the AI provider 
+base and strengthen talent 
+and supply chains to reduce 
+external reliance.
+Build culturally aligned 
+AI solutions that reflect 
+Malaysia’s values, languages 
+and societal context.
+Develop AI services that 
+reflect Malaysia’s diverse 
+languages, contexts, 
+values, and societal norms, 
+supporting inclusive 
+and culturally aligned AI 
+experiences for the Rakyat.
+	 Implementation Approach
+Ignite
+Scale
+Transform
+Establish lighthouse pilot 
+programmes to guide the 
+development of independent 
+digital infrastructure and 
+launch proof-of-concepts 
+for sensitive public sector 
+applications, including public 
+safety and government-
+specific AI.
+Identify high-impact sectorial 
+AI use-cases from “Impact 
+Engine Initiatives” and scale 
+them across industries to 
+accelerate the development 
+of localised AI models.
+Certify local Malaysian AI 
+models, provide access to AI 
+data sets, and promote safety 
+tools in order to accelerate 
+sector adoption from both 
+public and private sectors.
+
+40
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+PUBLIC-PRIVATE PARTNERSHIP (PPP)
+IMPACT ENGINES
+MANUFACTURING: AI HUB FOR THE MANUFACTURING ECOSYSTEM
+I8
+	 Overview
+Manufacturing builds on Malaysia’s strong economic base, with the sector contributing approximately 
+24% to national GDP4. This initiative positions manufacturing as a testbed for scalable AI adoption, 
+spanning Tier 1 multinational corporations through to SMEs, to drive organic adoption across targeted 
+industries.
+By establishing an AI Hub for the Manufacturing Ecosystem, Malaysia aims to develop foundational 
+AI models tailored to core sectors, beginning with semiconductors, and progressively adapt them for 
+broader applications such as predictive maintenance and process optimisation. This structured approach 
+addresses barriers to adoption by reducing implementation costs, addressing talent constraints, and 
+accelerating time-to-value, helping local companies overcome high implementation costs and talent 
+shortages while attracting high-value foreign direct investment.
+Ministry of Investment, Trade and Industry
+	 Key Lead
+Private Companies/Government-Linked Companies
+	 Proposed Data Providers
+Public–Private Partnership (PPP) Impact Engines form a core delivery category under Malaysia’s National AI 
+Action Plan 2026-2030 (AI Nation 2030). They are designed to accelerate transformation in major industrial 
+sectors, including Manufacturing, Plantation, and Micro, Small and Medium Enterprises (MSMEs). These 
+initiatives enable close collaboration between government and industry to build closed-loop AI ecosystems, 
+where high-quality data, specialised talent, and deployable AI solutions reinforce one another. Through this 
+approach, PPP-Led Impact Engines unlock productivity gains, support sector-wide modernisation, and 
+generate strong economic multiplier effects.
+4	 Ministry of Investment, Trade and Industry (MITI), National Industrial Master Plan 2030 (NIMP 2030), Kuala Lumpur: Government of 
+Malaysia, 2023.
+
+Ministry of Digital
+41
+	 Target End-State
+Become the preferred destination for advanced manufacturing where AI unlocks productivity and 
+accelerates Malaysia’s movement up the value chain.
+	 Manufacturing Intended Outcomes
+Higher Manufacturing 
+Productivity
+Faster AI Adoption for SMEs
+Attraction of Global Players
+Achieve an increase in 
+productive capacity via 
+enhanced efficiency and 
+reduced operational 
+bottlenecks.
+Overcome adoption barriers 
+and help smaller companies 
+scale digital transformation 
+to improve their global 
+competitiveness.
+Strengthen Malaysia’s 
+position in key industries, 
+such as semiconductors, to 
+boost FDI inflows through AI-
+powered hubs.
+	 Implementation Approach
+Ignite
+Scale
+Transform
+Initiate Al Model 
+Development and Proof of 
+Concept (PoC) deployments 
+by convening industry 
+players to identify use cases 
+and develop foundational 
+AI models, tailored to core 
+manufacturing sectors.
+Execute model expansion 
+and Sector Adaptation 
+by broadening AI models 
+and tailoring them for 
+application across additional 
+manufacturing sub-sectors, 
+including automotive, 
+chemicals, and medical 
+devices.
+Enable Organic Ecosystem 
+Activation through 
+comprehensive testbeds, 
+shared data infrastructure, 
+and sustained technical 
+support.
+
+42
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+PUBLIC-PRIVATE PARTNERSHIP (PPP)
+IMPACT ENGINES
+	 Target End-State
+Advance AI adoption across the plantation sector, positioning Malaysia as a global leader and exporter 
+of AI solutions for palm oil.
+PLANTATION: AI PLATFORM FOR SMALLHOLDER EMPOWERMENT
+I9
+	 Overview
+The plantation sector faces a significant digital divide, particularly in palm oil, where smallholders 
+manage approximately 26.4% of Malaysia’s planted area5 but have limited access to advanced AI tools 
+due to cost, capability, and knowledge constraints.
+This initiative focuses on developing a platform that consolidates existing datasets and AI solutions to 
+support smallholders with high-impact capabilities such as pest and disease management, fertiliser 
+optimisation, and harvest timing. By coordinating support from central agencies and large plantation 
+players, the platform enables smallholders to improve yields, reduce labour intensity, and adopt precision 
+farming practices comparable to large estates. Over time, this ecosystem-based approach strengthens 
+national palm oil productivity and positions Malaysia as a global hub for exporting AI solutions tailored 
+to tropical plantation agriculture.
+Ministry of Plantation and Commodities
+•	 Malaysian Palm Oil Board (MPOB)
+	 Key Lead
+Ministry of Rural and Regional Development and universities
+•	 Federal Land Development Authority (FELDA)
+•	 Federal Land Consolidation and Rehabilitation Authority (FELCRA)
+•	 Rubber Industry Smallholders Development Authority (RISDA)
+	 Proposed Data Providers
+5	 BERNAMA, Planted Oil Palm Area To Hit 5.64 Mln Hectares In 2025, 11 September 2025.
+
+Ministry of Digital
+43
+	 Plantation Intended Outcomes
+Reduced Labour Burden
+Improve Large Plantation 
+Supply Base
+Activated Agritech 
+Ecosystem
+Achieve up to 70% reduction 
+in manual labour and up 
+to 2.7 times greater land 
+coverage through AI-enabled 
+automation.
+Increased Fresh Fruit 
+Bunch (FFB) volume and 
+quality from supply base of 
+smallholders.
+Catalyse local innovation to 
+serve more than 300,000 
+smallholders while unlocking 
+new export opportunities 
+for Malaysian-developed 
+agritech solutions.
+	 Implementation Approach
+Ignite
+Scale
+Transform
+Focus on Platform 
+Development for 
+Smallholders (e.g. MySawit) 
+by consolidating existing 
+initiatives across MPOB 
+divisions.
+Expansion of platforms such 
+as MySawit by integrating 
+additional AI solutions, 
+such as autonomous drone 
+services for spraying and 
+monitoring, which also 
+generate richer training data.
+Enablement by leveraging 
+Malaysia’s technical 
+capabilities to serve global 
+markets. Local plantations 
+can extend their technology 
+advantage to Malaysia-
+owned operations in 
+international markets, 
+positioning Malaysia as a 
+global hub for AI in palm oil.
+
+44
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+PUBLIC-PRIVATE PARTNERSHIP (PPP)
+IMPACT ENGINES
+	 Target End-State
+Inclusive AI access for all MSMEs, supported by end-to-end enablement tailored to different stages of the 
+MSMEs AI adoption journey.
+AI FOR MSMEs: MODULAR RESOURCES FOR MSMEs
+I10
+	 Overview
+Micro, Small and Medium Enterprises (MSMEs) form the backbone of Malaysia’s services sector, 
+representing approximately 84.4% of all businesses6. While awareness of AI among MSMEs is relatively 
+high, adoption remains limited due to talent shortages, cost constraints, and uncertainty around where 
+to start.
+This initiative builds on the Business Digitalisation Initiative (BDI) to create a one-stop AI enablement 
+ecosystem for MSMEs7. It provides modular, affordable, and pre-vetted AI tools integrated into platforms 
+MSMEs already use, supported by training and advisory services. By lowering entry barriers and 
+simplifying adoption, the initiative enables MSMEs to leapfrog incremental digital upgrades and embed 
+AI directly into daily operations, improving productivity, competitiveness, and long-term resilience.
+Ministry of Digital
+•	 Malaysia Digital Economy Corporation (MDEC)
+	 Key Lead
+SaaS providers, Platform players
+	 Proposed Solution Providers
+Platform players
+	 Proposed Data Providers
+6	 SME Corp Malaysia, Profile and Importance to the Economy, 2025.
+7	 Malaysia Digital Economy Corporation (MDEC), Business Digitalisation Initiative (BDI).
+
+Ministry of Digital
+45
+	 MSMEs Intended Outcomes
+Lower Adoption Barriers
+Enhanced Productivity
+Stronger Economic 
+Resilience
+Provide 1.5 million MSMEs 
+with scalable access to AI 
+by embedding tools into 
+platforms they already use.
+Enable automation of back-
+office and customer-facing 
+functions, allowing MSMEs 
+to move beyond basic 
+digitisation to higher value-
+added activities.
+Widespread AI adoption 
+across the services sector 
+strengthens value chains and 
+creates new monetisation 
+opportunities for both 
+solution providers and 
+MSMEs.
+	 Implementation Approach
+Ignite
+Scale
+Transform
+Building on BDI, provide 
+fit-for-purpose, targeted 
+and practical AI solutions 
+tailored to individual MSME 
+requirements and digital 
+maturity levels.
+Provide modular support 
+and scaled Proof of Concept 
+(POCs) through a library 
+of open-source AI toolkits, 
+training and advisory 
+services, supported by 
+onboarding frameworks 
+modular across segments, 
+digital maturity levels and 
+service sub-sectors.
+Establish an AI marketplace 
+for MSMEs where businesses 
+can access tailored, 
+affordable and vetted AI 
+solutions and services, 
+including offerings from local 
+providers.
+
+46
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+Industry Champion-Led Impact Engines focus on mature sectors where 
+established private-sector leaders are well positioned to spearhead AI 
+adoption. These initiatives build on existing industry capabilities and market 
+structures, with the Government partnering closely with industry champions 
+to advance national objectives through practical and commercially 
+sustainable implementation.
+Unlike government-initiated Impact Engines, which primarily target public 
+service delivery and early ecosystem activation, Industry Champion-Led 
+Impact Engines emphasise joint execution between the public and private 
+sectors. This model allows the Government to support sector-specific 
+transformation while leveraging industry leadership, operational expertise, 
+and market readiness. The result is AI adoption that delivers shared value for 
+citizens, strengthens industry competitiveness, and contributes to national 
+economic resilience.
+To balance innovation with stability, Industry Champion-Led Impact Engines 
+are guided by two complementary strategic themes:
+INDUSTRY 
+CHAMPION-LED 
+IMPACT ENGINES
+Implementation follows a facilitative, partnership-based engagement model. 
+The Government plays a coordinating role by identifying areas of strategic 
+alignment, enabling access to foundational enablers, and supporting 
+coherence with national policy priorities. Governance arrangements remain 
+proportionate and flexible, with industry champions maintaining regular 
+engagement to receive support and alignment, without the prescriptive 
+reporting requirements applied to catalytic government-led initiatives.
+Theme A: Access New Growth and Underserved Opportunities
+Leveraging AI to expand into emerging markets, address unmet 
+needs, and unlock new sources of value.
+Theme B: Support Existing Business
+Strengthening established operations through AI-driven efficiency, 
+resilience, and long-term competitiveness, ensuring core industries 
+remain robust as they adapt to an increasingly AI-enabled economy.
+
+Ministry of Digital
+47
+
+48
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+INDUSTRY CHAMPION-LED
+IMPACT ENGINES
+POWER UTILITY: AI FOR A GREEN ENERGY FUTURE
+I11
+	 Overview
+The Power Utility Impact Engine applies AI to modernise the power utility sector, supporting the 
+expansion of renewable energy and the development of an intelligent, flexible grid capable of meeting 
+future demand. The focus is on using AI to balance sustainability goals with operational reliability and 
+high standards of customer service.
+	 Strategic Focus
+	
+Accelerating Malaysia’s transition to a sustainable, resilient energy system.
+Growth-Oriented Outcomes
+Core Business 
+Transformation
+Government Facilitation
+Scale renewable energy 
+through flexible grids and 
+advanced analytics, including 
+AI-enabled solar generation 
+management.
+Improve service delivery, 
+customer experience and 
+operational efficiency across 
+the utility value chain.
+Access to national AI talent, 
+public datasets through the 
+National Data Exchange, 
+linkages to AI solution 
+providers, and international 
+cooperation frameworks that 
+support energy transition 
+efforts.
+
+Ministry of Digital
+49
+OIL AND GAS: MODERNISING THE OGSE ECOSYSTEM
+I12
+	 Overview
+The Oil and Gas Impact Engine focuses on democratising AI adoption across the oil and gas value chain, 
+with particular emphasis on the local Oil and Gas Services and Equipment (OGSE) ecosystem. AI is 
+positioned as a practical enabler to improve productivity, strengthen operational resilience, and support 
+future growth beyond traditional operations.
+	 Strategic Focus
+	
+Strengthening the long-term competitiveness of Malaysia’s oil and gas sector while enabling 
+diversification.
+Growth-Oriented Outcomes
+Core Business 
+Transformation
+Government Facilitation
+Deploy AI across new 
+ventures and embed AI 
+capabilities within the 
+industry champion’s 
+investment and venture 
+portfolio.
+Modernise the local OGSE 
+ecosystem by increasing 
+AI adoption across existing 
+operations and service 
+delivery.
+Access to national AI talent, 
+public datasets through the 
+National Data Exchange, 
+linkages to AI solution 
+providers, and international 
+cooperation frameworks that 
+support energy transition 
+efforts.
+
+50
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+FINANCIAL SERVICES: GROWTH, INCLUSION AND SECURITY
+I13
+	 Overview
+AI is applied across Malaysia’s financial sector to expand access to finance while reinforcing trust, security, 
+and regulatory compliance. The focus is on serving underserved segments, including MSMEs and start-
+ups, without compromising financial stability or consumer protection.
+	 Strategic Focus
+	
+Supporting economic growth, financial inclusion, and system integrity.
+Growth-Oriented Outcomes
+Core Business 
+Transformation
+Government Facilitation
+Expand financial inclusion, 
+including improved access 
+to funding and financial 
+services for MSMEs and start-
+ups.
+Strengthen regulatory 
+compliance, fraud detection, 
+cybersecurity, and risk 
+management through AI-
+enabled capabilities.
+Specialised AI talent 
+pipelines, collaboration 
+with research Centres of 
+Excellence, and regulatory 
+sandbox environments 
+to safely test and scale 
+AI-enabled financial 
+innovations.
+INDUSTRY CHAMPION-LED
+IMPACT ENGINES
+
+Ministry of Digital
+51
+TELECOMMUNICATIONS: EMPOWERING MALAYSIA’S AI INFRASTRUCTURE
+I14
+	 Overview
+The telecommunications sector underpins Malaysia’s AI ecosystem by enabling the deployment, 
+management, and commercialisation of AI-ready infrastructure. By strengthening connectivity, data 
+transmission, and compute access, this Impact Engine allows AI solutions to scale efficiently, securely, 
+and reliably across sectors.
+	 Strategic Focus
+	
+Providing the digital and compute backbone for national AI adoption.
+Growth-Oriented Outcomes
+Core Business 
+Transformation
+Government Facilitation
+Develop new revenue 
+streams through AI-enabled 
+infrastructure and digital 
+services.
+Ensure robust and scalable 
+infrastructure to meet 
+growing domestic AI 
+demand across industries.
+Access to shared data pools, 
+high-powered compute 
+resources, and ecosystem 
+support to enable local 
+developers and enterprises 
+to build, deploy, and scale AI 
+solutions.
+
+PART 4:
+FOUNDATIONAL 
+ENABLERS: 
+ANCHORING SYSTEM-
+WIDE AI ADOPTION
+
+Ministry of Digital
+53
+FOUNDATIONAL ENABLERS
+Complementing the sector-led Impact Engines, the Foundational Enablers provide the support required 
+to sustain and scale AI adoption across the economy. They are the shared foundational components that 
+individual sectors rely on, ensuring that AI deployment is consistent, trusted, and repeatable beyond isolated 
+pilots.
+Aligned with the Thirteenth Malaysia Plan (RMK-13), these enablers reinforce critical national capacities, 
+including talent development, innovation pathways, data and compute infrastructure, governance, and 
+financing. Together, they support Malaysia’s transition from fragmented AI adoption to a coordinated, value-
+adding AI ecosystem with long-term resilience and competitiveness.
+Globally Competitive 
+Human Capital
+E1*
+Global Talent Network: Attract Malaysian and global AI talent to 
+contribute, remotely or on-site to stimulate local AI ecosystem —while 
+developing local talent
+E2
+Talent Pipeline @ Scale: Widespread & accessible proactive skilling 
+effort to expand the safety net against job displacement & provide new 
+opportunities for all
+E3
+AI-Centric Higher Education: Instill a mindset shift in higher education 
+& equip learners with techno-functional & data skills while building a 
+sustainable pipeline of AI talent
+E4
+AI-Fluent Students: Embed AI usage, safety & ethics into K-12 learning 
+so that every student can use AI tools responsibly & effectively
+E5
+AI-Competent Civil Service: Prepare civil servants for an AI-augmented 
+govt with the knowledge & skills to adopt AI at work, to deliver AI-
+enabled public services & to regulate AI 
+Market-Driven 
+Innovation & 
+Adoption
+E6
+Research Foundry: Create a balanced push-pull environment that 
+translates industry-informed R&D to products by consolidating research 
+& funding and adopting a quadruple helix approach
+E7*
+AI Growth Zones: Zones anchored on quadruple helix approach, offers 
+compute access, AI talent, playbooks, access to Research Foundry and 
+zone-level sandbox to drive throughput, time-to-market gains and job 
+creation
+E8
+Public Trust and Confidence: AI on the public comms agenda: build AI 
+literacy and promote responsible use (privacy, bias, safety) to secure 
+public trust
+14 initiatives identified to strengthen Malaysia’s AI foundational enablers
+
+54
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+Data & Compute
+Infrastructure
+E9
+AI-Ready Data Ecosystem: Aggregates a ‘Top 100’ priority dataset 
+catalogue across sectors, packaging them into trusted, purpose-driven 
+data products for AI and analytics – to catalyse establishment of a 
+national Data Exchange
+E10
+Accessible High-Compute Capacity: Provide accessible compute 
+capacity to deliver affordable, AI-ready high-performance compute 
+while staying within the nation’s climate-impact commitments
+Trust via 
+Responsible 
+Governance
+E11*
+Holistic and Sectoral AI Governance: Establish a unified, future-proof 
+and pro-innovation governance foundation
+E12
+AI Trust Function: Create an AI evaluation, assessment & response 
+capability to ensure Malaysia can adequately pre-empt and manage AI 
+risks
+E13
+National AI Classification: Establish a criteria-led certification 
+mechanism for Made-by-Malaysia AI—covering compute, data, and 
+models paired with open benchmarks so AI ecosystems can flourish
+E14
+AI-Aware Stewardship: Enable Malaysian corporate boards to be ready 
+for an AI future—equipped with the skills, disclosures and controls to 
+govern AI and other emerging-technology risk
+Sustainable Funding 
+& Investment
+Capital chases opportunity: robust enablers create investable AI 
+ventures, letting funding flow, scale, and recycle across the ecosystem
+*
+Catalytic Initiatives
+
+Ministry of Digital
+55
+HOW FOUNDATIONAL ENABLERS OPERATE
+Foundational Enablers operate through a coordinated Whole-of-Nation approach that aligns government, 
+industry, academia, and civil society. Rather than acting as standalone programmes, they function as shared 
+mechanisms that support initiatives such as impact engines and convert these initiatives into national 
+assets.
+This is achieved through five interlinked pillars:
+Builds a 
+progressive 
+talent pipeline 
+that spans 
+foundational 
+AI literacy to 
+advanced 
+specialist 
+expertise, 
+supported by 
+global talent 
+engagement and 
+local capability 
+development.
+Globally 
+Competitive
+Human Capital
+Strengthening 
+Talent 
+Development
+Bridges 
+research and 
+commercialisation 
+by aligning R&D 
+with industry 
+demand through 
+the Research 
+Foundry and 
+Regional AI 
+Growth Zones, 
+enabling faster 
+lab-to-market 
+translation.
+Market-Driven 
+Innovation and 
+Adoption
+Developing 
+Policy
+Increasing 
+Digital Trust
+Expanding 
+Strategic 
+Investments
+Provides the core 
+digital utilities for 
+AI by enabling 
+trusted data 
+sharing and 
+securing access 
+to compute 
+capacity.
+Data and 
+Compute 
+Infrastructure
+Enhancing 
+Digital 
+and Data 
+Infrastructure
+Establishes clear 
+safeguards for 
+safe, ethical, 
+and secure AI 
+deployment 
+through 
+risk-based 
+frameworks, 
+classification 
+systems, and 
+regulatory clarity 
+that build public 
+and investor 
+confidence.
+Trust via 
+Responsible 
+Governance
+Mobilises 
+blended public 
+and private 
+capital to  
+incentivise AI 
+development  
+and ensure 
+financing 
+continuity across 
+the AI lifecycle, 
+from early 
+experimentation 
+to large-scale 
+deployment.
+Sustainable 
+Funding and 
+Investment
+
+56
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+DELIVERY AND OVERSIGHT
+Delivery of the Foundational Enablers is coordinated through a tiered 
+governance structure led by the AI Malaysia (National AI Office). Each 
+pillar is assigned to designated Lead Ministries, ensuring clear ownership, 
+accountability, and alignment with national priorities while enabling cross-
+agency coordination.
+CATALYTIC FOUNDATIONAL ENABLERS 
+INITIATIVES
+While 14 Foundational Enablers underpin the AI Nation 2030, three are 
+prioritised as Catalytic Initiatives in the initial phase due to their system-wide 
+impact and first-mover advantage:
+These initiatives unlock critical constraints early by expanding talent access, 
+creating demand for AI technology, and providing regulatory certainty, 
+accelerating national self-reliance and momentum across all Impact 
+Engines.
+STRENGTHENING CORE CAPABILITIES 
+THROUGH FOUNDATIONAL ENABLERS
+Foundational Enablers provide the capabilities, infrastructure, and 
+coordination required to sustain AI adoption at scale. They strengthen 
+critical areas such as talent, data and compute infrastructure, trusted 
+governance, innovation pathways, and sustainable funding, ensuring that 
+Impact Engines can be deployed effectively and scaled across sectors.
+E1: Global Talent Network
+E7: AI Growth Zones
+E11: Holistic and Sectoral AI Governance
+
+Ministry of Digital
+57
+
+58
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+GLOBAL TALENT NETWORK
+E1
+	 Overview
+Malaysia urgently needs to expand its AI talent base to remain competitive by 2030. This requires 
+attracting both the Malaysian diaspora and international AI experts, whether remotely or on-site. At the 
+same time, Malaysia must simultaneously invest in strengthening its own local AI talent to ensure long-
+term capabilities.
+Although progress has been made through talent attraction programmes, specialised visas, and skills 
+development initiatives, the current pool of AI developers, scientists, and professionals remains below 
+regional and global benchmarks. Existing efforts are positive but not yet sufficient to build a strong and 
+sustainable AI ecosystem at a national scale.
+GLOBALLY COMPETITIVE
+HUMAN CAPITAL
+	 Target
+Build an initial cohort of expert-level AI talent with techno-functional skills by 2028, followed by significant 
+expansion to meet national-scale demand by 2030.
+	 Recommendation
+Strengthen Malaysia’s AI talent base by accessing global expertise with sustained development of local 
+capabilities through targeted attraction, facilitation and ecosystem building.
+Ministry of Human Resources
+•	 Talent Corporation Malaysia Berhad (TalentCorp)
+	 Key Leads
+
+Ministry of Digital
+59
+Items
+Proposed Actions
+Implementation Priorities
+Access Global AI 
+Talent (Diaspora 
+and International 
+Experts)
+•	 Malaysian Diaspora AI Network
+	 Establish a national AI diaspora 
+database and launch targeted 
+campaigns, such as “Help Build AI 
+Malaysia”, with clear incentives for 
+national contribution.
+•	 AI Talent Track under MTEP
+	 Introduce a dedicated track for 
+diaspora and global experts, offering 
+enhanced incentives, multi-role 
+flexibility, and KPI-linked renewals, 
+leveraging the KL20 Innovation Pass.
+•	 Digital e-Residency Pass
+	 Enable high-potential foreign digital 
+talent and entrepreneurs to conduct 
+business and contribute remotely 
+without requiring physical residency.
+•	 AI Talent Concierge
+	 Establish a dedicated function to 
+attract and retain AI experts, providing 
+end-to-end support for visas, 
+relocation, schooling and housing.
+•	 Map and verify diaspora talent through 
+professional and alumni networks, 
+supported by a dedicated outreach 
+team.
+•	 Build on existing Innovation Pass 
+offerings and bundle visas with R&D 
+incentives where appropriate.
+•	 Define the scope of the e-Residency 
+pass to enable business participation 
+without granting automatic residency 
+rights.
+•	 Integrate processes across 
+Immigration, Ministry of Higher 
+Education (MOHE), and private 
+partners, supported by clear service 
+timelines and ROI principles.
+Invest in and Build 
+Local AI Talent
+•	 Talent Investment Fund
+	 Establish a public–private
+	 co-investment vehicle to attract 
+world-class AI builders to base teams 
+or new AI companies in Malaysia.
+•	 AI Fellows for Malaysia
+	 Fund Malaysians to pursue advanced 
+AI research or industry experience 
+abroad, with flexibility in immediate 
+return but clear expectations for 
+future ecosystem contributions.
+•	 Anchor the fund with capital from 
+sovereign investors and Government-
+Linked Companies (GLCs), supported 
+by a clear business case and impact 
+framework.
+•	 Require fellows to submit structured 
+impact plans, including spin-offs, 
+patents, training or knowledge 
+transfer.
+•	 Track contributions through 
+defined reporting and monitoring 
+mechanisms.
+
+60
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+TALENT PIPELINE @ SCALE
+E2
+	 Overview
+Rapid advances in AI and automation are reshaping Malaysia’s labour market. While some roles face 
+displacement, new demand is emerging for digital, AI and AI-adjacent skills across sectors. A broad and 
+accessible national skilling effort is therefore needed to protect workers and create new pathways into 
+higher-value roles.
+Although a national skilling ecosystem already exists, current reskilling efforts remain fragmented, 
+uneven in access and depth, and not always aligned with industry needs. A more coordinated, scalable 
+and industry-driven approach is required.
+GLOBALLY COMPETITIVE
+HUMAN CAPITAL
+	 Target
+Enable Malaysians in at-risk or transitioning roles to successfully move into higher-value, future-ready 
+and AI-enabled occupations through a scalable, inclusive and industry-aligned national reskilling and 
+upskilling pipeline.
+	 Recommendation
+Strengthen Malaysia’s national skilling system by embedding AI-focused reskilling and upskilling as 
+a core capability to protect workers from displacement while enabling transitions into future-ready 
+roles. The approach focuses on expanding access, improving programme quality, deepening industry 
+collaboration, and creating clear credentials and career pathways, with AI serving both as a skillset and 
+an enabler.
+Ministry of Human Resources 
+•	 Talent Corporation Malaysia Berhad (TalentCorp)
+	 Key Leads
+
+Ministry of Digital
+61
+Items
+Proposed Actions
+Implementation Priorities
+Broaden Access to 
+Skilling
+•	 Individual Impact Diagnostic Tool
+	 Develop a personal AI impact 
+and readiness diagnostic tool to 
+assess displacement risk, identify 
+transferable skills and recommend 
+learning pathways.
+•	 National Career and Skills Taxonomy
+	 Develop a dynamic taxonomy 
+covering AI and AI-adjacent roles 
+across key sectors to improve career 
+visibility and navigation.
+•	 Deploy the diagnostic tool as a 
+national entry point for workers to 
+understand their skilling needs and 
+available options.
+•	 Lead taxonomy development in 
+collaboration with TalentCorp, 
+Malaysian Qualifications Agency 
+(MQA), MDEC and Human Resource 
+Development Corporation (HRD Corp), 
+aligned with existing skills frameworks.
+Ensure Funding 
+and Access
+•	 AI Skilling Credits
+	 Introduce individual-based AI skilling 
+credits which can be used to enrol 
+in AI training programmes through 
+approved platforms to support 
+Malaysians in at-risk professions, low-
+income groups and workers outside 
+the traditional levy schemes.
+•	 Extend access to gig workers, SME 
+employees and the long-term 
+unemployed.
+•	 Integrate eligibility and access with 
+systems such as the Social Security 
+Organisation (SOCSO), Employees 
+Provident Fund (EPF), HRD Corp and 
+national digital identity platforms.
+Enhance 
+Curriculum and 
+Delivery
+•	 National Skilling Marketplace
+	 Establish a unified national platform 
+aggregating AI and digital skilling 
+programmes from public and private 
+providers.
+•	 Project-Based Extended 
+Programmes
+	 Pilot and scale longer, project-based 
+reskilling programmes focused on 
+applied, employer-validated learning.
+•	 Enable a seamless discovery-to-
+placement journey on a single 
+platform, including funding eligibility 
+checks.
+•	 Prioritise hands-on, project-based 
+delivery and avoid lecture-heavy 
+programme repackaging.
+Strengthen 
+Industry 
+Integration
+•	 Employer AI Skilling Pledges
+	 Introduce an AI skilling pledge 
+to secure industry commitments 
+for placements, apprenticeships, 
+bootcamps, and employment 
+pathways.
+•	 Engage employers through existing 
+industry councils and talent platforms.
+•	 Incentivise participation through 
+levy mechanisms, co-funding 
+arrangements, or tax incentives where 
+appropriate.
+
+62
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+Ensure Credential 
+Stackability
+•	 Accredited and Stackable Courses
+	 Ensure reskilling programmes are 
+industry-recognised, stackable and 
+aligned with national qualification 
+frameworks.
+•	 Co-lead the development of 
+assessment and accreditation 
+mechanisms, leveraging AI tools to 
+review curriculum quality and skills 
+coverage.
+•	 Enable credit transferability and 
+progression pathways into formal 
+qualifications.
+GLOBALLY COMPETITIVE
+HUMAN CAPITAL
+	 Recommendation
+The aim is to drive a mindset shift across higher education, colleges, and TVET institutions by 
+mainstreaming AI competencies, strengthening educators, and expanding industry collaboration 
+through curriculum reform, educator capability building, shared infrastructure, and applied industry-
+led learning, guided by human values and responsible AI.
+AI-CENTRIC HIGHER EDUCATION
+E3
+	 Overview
+Malaysia has made steady progress in positioning AI as a priority in higher education, supported by policy 
+direction, initial funding, and early curriculum integration. However, the pace of talent development 
+remains constrained by accreditation timelines, limited educator expertise, uneven industry participation, 
+and unclear employment pathways. Building a sustainable pipeline of AI-ready graduates requires 
+higher education institutions, colleges, and TVET providers to move beyond isolated initiatives towards 
+a coordinated, industry-connected, and values-driven AI education model that equips student learners 
+with techno-functional, data, and ethical AI competencies.
+	 Target
+Increase participation in AI-related learning, strengthen educator capability, and expand industry 
+placements and apprenticeships in AI fields.
+Ministry of Higher Education
+	 Key Lead
+
+Ministry of Digital
+63
+Items
+Proposed Actions
+Implementation Priorities
+Mainstream AI in 
+the Curriculum
+•	 National AI Policy for Higher 
+Education
+	 Establish a policy framework covering 
+curriculum delivery, accreditation, 
+administration, and ethics.
+•	 Fast-Lane Accreditation
+	 Introduce expedited pathways for AI 
+courses and modular electives aligned 
+with MQA AI standards.
+•	 AI-Infused Curriculum Refresh
+	 Update programmes to embed 
+applied, ethical, and responsible AI.
+•	 Flagship AI Adopters
+	 Designate selected institutions and 
+faculties as centres of excellence to 
+pilot and scale best practices.
+•	 Ensure baseline AI fluency for all 
+graduates while strengthening 
+specialist talent pipelines.
+•	 Expand modular AI electives across 
+disciplines and scale successful 
+initiatives across institutions.
+•	 Leverage upcoming MQA AI standards 
+to support fast-lane accreditation and 
+continuous curriculum updates.
+Empower 
+Educators with 
+Training and 
+Resources
+•	 Educator AI Mobility and Fellowships
+	 Provide advanced training and 
+industry attachments with leading AI 
+research and industry labs.
+•	 Educator Upskilling Programmes
+	 Implement structured AI bootcamps, 
+certification pathways, and peer 
+learning networks.
+•	 National Virtual AI Lab
+	 Provide shared access to compute 
+resources, curated datasets, and 
+AI sandboxes for teaching and 
+experimentation.
+•	 Secure co-funding arrangements 
+and leverage national AI research 
+and compute resources to support 
+teaching and applied learning.
+
+64
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+Scale Industry-
+Led Training and 
+Apprenticeships
+•	 Institute-Industry AI Clinics
+	 Enable universities and TVET 
+institutions to partner with industry 
+on capstone projects and case-based 
+learning.
+•	 Work-Based Learning and 
+Apprenticeships
+	 Expand structured placements with 
+local and multinational companies 
+which employ AI as core to their 
+operation.
+•	 Ensure case materials are open and 
+reusable to support teaching and 
+curriculum scaling.
+•	 Coordinate placements through 
+national industry–academia platforms 
+and link them to defined AI learning 
+outcomes and industry incentives.
+GLOBALLY COMPETITIVE
+HUMAN CAPITAL
+	 Recommendation
+The aim is to embed AI literacy, safety, and ethical use across primary and secondary education by 
+strengthening policy coherence, empowering educators, integrating AI into curricula, and addressing 
+digital access gaps. This positions AI as a learning enabler while safeguarding students and supporting 
+inclusive, values-based adoption.
+AI-FLUENT STUDENTS
+E4
+	 Overview
+AI tools are already widely used by primary and secondary school students in Malaysia and globally, with 
+strong potential to enhance learning outcomes. However, gaps in AI literacy, educator readiness, and 
+equitable access to devices and connectivity risk misuse, uneven learning, and a widening digital divide 
+without a coordinated and systemic response. Embedding AI usage, safety, and ethics early is critical to 
+ensure students use AI responsibly and build a foundation for future workforce readiness.
+	 Target
+Achieve widespread AI literacy among primary and secondary school students.
+Ministry of Education
+	 Key Lead
+
+Ministry of Digital
+65
+Items
+Proposed Actions
+Implementation Priorities
+Ensure Policy 
+Coherence and 
+Mindset Shift
+•	 Policy Alignment
+	 Integrate AI explicitly into existing 
+education blueprints and digital 
+education policies, recognising AI as 
+an enabler of teaching and learning.
+•	 Curriculum Enhancement
+	 Embed AI safety, ethics, and effective 
+usage across relevant subjects and ICT 
+or moral education.
+•	 Industry Partnerships
+	 Work with technology partners to 
+support curriculum integration, 
+funding, and resources.
+•	 Phase AI curriculum enhancements 
+into existing syllabi.
+•	 Align national AI literacy guidelines for 
+teachers and students.
+•	 Ensure coordination across digital 
+education initiatives to avoid overlap.
+Empower 
+Educators to Teach 
+about AI and 
+Teach with AI
+•	 Educator Enablement
+	 Provide clear frameworks, guidance, 
+and incentives for teachers to use AI in 
+teaching and learning.
+•	 AI Champion Cohort
+	 Train selected educators to advanced 
+proficiency as mentors and pace-
+setters, supported by national 
+platforms and industry collaboration.
+•	 Scale educator training programmes 
+in partnership with industry.
+•	 Strengthen peer networks to share 
+practices and accelerate adoption.
+Bridge the Digital 
+Divide
+•	 AI Readiness Assessments
+	 Introduce school-level assessments 
+integrated into broader digitalisation 
+initiatives.
+•	 EdTech Infrastructure
+	 Deploy AI-enabled classroom tools, 
+devices, and platforms to support 
+teaching and learning nationwide.
+•	 Pair device roll-outs with maintenance 
+and connectivity funding.
+•	 Expand AI-powered classroom pilots 
+and ensure rural and underserved 
+schools are included.
+
+66
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+GLOBALLY COMPETITIVE
+HUMAN CAPITAL
+	 Recommendation
+Prepare civil servants for an AI-augmented government by embedding AI competency as a core 
+requirement, strengthening regulatory capability, and standardising structured learning and industry 
+exposure to enable responsible and effective AI adoption.
+AI-COMPETENT CIVIL SERVANT
+E5
+	 Overview
+AI adoption in the public sector is accelerating, improving productivity, service delivery, and policy 
+outcomes. However, gaps in AI competency, regulatory readiness, and consistent application across 
+ministries risk undermining governance, operational effectiveness, and confidence in Malaysia’s AI 
+ecosystem without structured upskilling.
+	 Target
+Strengthen managerial proficiency in emerging technologies, including AI, across government.
+Public Service Department
+	 Key Lead
+
+Ministry of Digital
+67
+Items
+Proposed Actions
+Implementation Priorities
+Make AI Training a 
+Mandate
+•	 Training as a Pre-Condition
+	 Require completion of AI training 
+before approving, deploying, or 
+overseeing government AI systems.
+•	 Roll out in phases, starting with high-
+risk and regulated sectors.
+•	 Align requirements with existing 
+governance and approval processes to 
+ensure compliance.
+Introduce Tiered 
+AI Competency 
+Frameworks
+•	 AI Competency Assessment
+	 Assess baseline knowledge, 
+confidence, and responsible AI 
+awareness across the public sector.
+•	 Competency Mapping
+	 Develop tiered frameworks covering 
+policy, operations, technology, and 
+responsible AI use.
+•	 Recognition and Certification
+	 Link certifications and competency 
+badges to career progression and 
+professional development linked to AI 
+capability attainment.
+•	 Update frameworks regularly to reflect 
+evolving AI development.
+•	 Align competency recognition with 
+career advancement.
+Centralise 
+Learning to Ensure 
+Quality and 
+Consistency
+•	 Tiered Learning Pathways
+	 Develop structured learning 
+pathways by role and competency 
+level, including courses and micro-
+credentials.
+•	 Central Learning Portal
+	 Integrate AI training resources, 
+guidance, and peer learning into a 
+unified platform.
+•	 Scale existing programmes and 
+ensure consistent quality and ensure 
+alignment with national AI priorities.
+Ensure Industry 
+and Regulatory 
+Exposure
+•	 Industry and Regulator Placements
+	 Expand placements with leading 
+AI regulators, think tanks, and 
+technology companies.
+•	 Coordinate industry and regulatory 
+placements to provide exposure and 
+ensure skills are applied effectively 
+upon completion of placement 
+programmes.
+
+68
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+MARKET-DRIVEN INNOVATION
+AND ADOPTION
+RESEARCH FOUNDRY
+E6
+	 Overview
+Research Foundry aims to strengthen Malaysia’s AI research, development, and commercialisation 
+pipeline by creating a balanced push-pull ecosystem that translates industry-informed R&D into market-
+ready products. It consolidates research direction and funding under a coordinated, mission-driven 
+framework based on a quadruple helix model centred on industry-academia collaboration with strategic 
+support from the government.
+The objective is to build a functioning end-to-end innovation-to-commercialisation pathway, supported 
+by clear research priorities, aligned funding, development resources, strong IP protection and structured 
+commercialisation support.
+8	 1. Technology readiness level 2. Technology Transfer Office
+	 Source: Stanford University’s the Global AI Vibrancy Tool
+Impactful R&D&I 
+that culminates 
+in revenue 
+generation requires 
+a functioning 
+invention-to-
+commercialisation 
+pipeline
+1
+2
+3
+4
+5
+6
+7
+8
+Invention and
+Disclosure
+Invention 
+submission
+Revenue
+Revenue 
+collection and 
+distribution
+Assessment
+TRL8, Industrial 
+application,market 
+potential analysis
+Licensing
+Fixation of 
+company rights
+IP Protection
+Patent 
+application
+RDCI Policy 
+Robust policy 
+to support 
+RDCI adoption
+Market Research
+Industry approach 
+with multiple 
+objectives
+Proof of Concept
+Technology gap 
+overcome
+Figure 4: The Research Foundry Quadruple Helix Model – illustrates a coordinated, end-to-end innovation-to-commercialisation pathway 
+driven by industry, academia, government, and market alignment.
+
+Ministry of Digital
+69
+	 Recommendation
+Enhance the Research, Development, Commercialisation and Innovation (RDCI) ecosystem by aligning 
+funding, expertise and infrastructure towards mission-based research programmes.
+Ministry of Science, Technology and Innovation
+	 Key Lead
+Items
+Proposed Actions
+Implementation Priorities
+Coordinated 
+Funding
+•	 Malaysia Grand Challenge Priority
+	 Establish AI as a national research 
+priority and work with industry and 
+academia to define high-impact use 
+cases.
+•	 Strategic Alignment
+	 Align initiatives with the RMK-13 
+mission-based research programme.
+•	 Leverage existing Malaysia Grand 
+Challenge initiatives.
+•	 Collaborate with industry stakeholders 
+to define focus areas and funding 
+priorities.
+Collaborative 
+Approach to Drive 
+Applied AI R&D
+•	 Ecosystem Coordination
+	 Advance applied R&D and 
+commercialisation through industry-
+led AI consortia.
+•	 Academic Integration
+	 Mobilise university expertise to 
+address citizen-centric challenges.
+•	 Centres of Excellence
+	 Empower selected universities to serve 
+as AI expertise hubs.
+•	 Problem-Oriented Projects 
+	 Launch targeted projects focused on 
+practical AI use cases.
+Open Resources 
+for Reproducible 
+Solutions
+•	 National AI Research Resource
+	 Establish shared benchmarks and an 
+open repository for code, datasets, 
+and best-practice playbooks.
+•	 National AI Compute Pool
+	 Provide facilitated compute access 
+through a national virtual AI lab.
+•	 Coordinate resource pooling across 
+R&D agencies and universities.
+•	 Secure compute access as a condition 
+of market entry for providers.
+
+70
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+International 
+Collaborations
+•	 Global Partnerships
+	 Secure Government-to-Government 
+negotiations to identify and secure 
+research partnerships with other 
+leading AI countries.
+•	 ASEAN Launchpad
+	 Position Malaysia as a regional base 
+for AI research within ASEAN.
+•	 Initiate joint research calls, mobility 
+programmes, and co-publication 
+efforts.
+•	 Leverage diplomatic missions to 
+identify collaboration opportunities.
+Commercialisation 
+Pathway
+•	 Strengthen IP Protection
+	 Update legislation to ensure adequate 
+AI protection, issue permissive-IP 
+guidelines for testing, and roll out an 
+AI-focused fast-track aligned with  
+RMK-13 strategy on strengthening 
+IP commercialisation, valuation, and 
+technology transfer.
+•	 National Technology Transfer Office 
+(TTO)
+	 Integrate existing university TTOs into 
+a one-stop service for drafting licenses 
+and spin-out agreements.
+•	 Develop a clear reform roadmap 
+beginning with expert consultations 
+and policy review on AI related IP 
+protection.
+•	 Assign a national lead coordinating 
+body engaging quadruple helix AI 
+consortia.
+MARKET-DRIVEN INNOVATION
+AND ADOPTION
+AI GROWTH ZONES
+E7
+	 Overview
+AI Growth Zone is  industry-led AI demand centres, which accelerate  AI ecosystem development through 
+demand-driven adoption and an integrated support track combining compute access, embedded 
+technical talent, and incentives. It de-risks development, provides clearer deal flow, and attracts talent 
+by matching and facilitating AI technology supply to real industry demand.
+AI Growth Zones will build on each region’s inherent strengths and key economic focus areas, fostering 
+the development of relevant AI use cases aligned to local industries.
+
+Ministry of Digital
+71
+High-Value 
+Manufacturing
+Vision-guided inspection 
+and sorting on assembly 
+lines
+Modern 
+Agriculture
+AI paddy yield 
+monitoring for Kedah 
+Agristack
+Northern Corridor Economic Region
+1
+Advanced 
+Manufacturing
+AI digital-twin and 
+predictive scheduling for 
+factories
+Services
+Real-time fraud-
+detection and credit-
+scoring engine
+Greater Klang Valley
+2
+Logistics
+Smart port with 
+computer-vision yard 
+management and berth 
+management
+Petrochemicals 
+and 
+Oleochemicals
+AI-assisted feedstock and 
+trading optimisation
+Iskandar Malaysia
+3
+Oil, Gas and 
+Petrochemicals
+Real-time plant safety 
+analytics
+Tourism
+Smart-beach with 
+poacher alerts and visitor 
+monitoring
+East Coast Economic Region
+4
+Renewable 
+Energy
+Smart port with 
+computer-vision yard 
+management and berth 
+management
+Smart Cities
+AI traffic and flood-risk 
+management
+Sarawak Corridor of Renewable Energy
+5
+Oil, Gas and 
+Petrochemicals
+AI-powered drilling 
+optimisation and NPT 
+prediction
+Agriculture
+Automatic agriculture 
+quality grade sorting 
+engine
+Sabah Development Corridor
+6
+Perlis
+Penang
+Kedah
+Perak
+Kelantan
+Selangor
+Kuala 
+Lumpur
+Putrajaya
+Negeri 
+Sembilan
+Melaka
+Johor
+Pahang
+Terengganu
+Sarawak
+Sabah
+Labuan
+1
+2
+3
+4
+5
+6
+Figure 5: Regional AI Growth Zones and Key Economic Focus Areas.
+
+72
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+	 Target
+Increase the number of AI demand centres across key regions nationwide.
+	 Recommendation
+Transition from broad-based investment approaches to targeted, location-based support and ecosystem 
+orchestration to maximise returns.
+Ministry of Digital
+•	 Malaysia Digital Economy Corporation (MDEC)
+State Authority
+	 Key Leads
+MARKET-DRIVEN INNOVATION
+AND ADOPTION
+Items
+Proposed Actions
+Implementation Priorities
+Provide Milestone-
+Based Support
+•	 Provide Compute Access
+	 Offer tiered, time-bound compute 
+credits and onboarding support to 
+reduce entry barriers for AI ventures.
+•	 Embed Technical Expertise
+	 Deploy trained AI talent into 
+companies via Talent-in-Residence 
+programmes to support development 
+and deployment of AI.
+•	 Link Incentives to Outcomes
+	 Disburse incentives based on the 
+achievement of defined technical or 
+commercial milestones.
+•	 Secure compute capacity through 
+partnerships with industry or public 
+sector partners.
+•	 Structure the Talent-in-Residence 
+programme with AI experts as mentors 
+supporting apprentices throughout 
+the programme.
+•	 Publish a transparent scoring rubric for 
+evaluating application for milestone-
+based support.
+
+Ministry of Digital
+73
+Strengthen 
+the Innovation 
+Environment
+•	 Provide Shared Technical Resources
+	 Offer curated datasets, reference 
+architectures, and best-practice 
+playbooks.
+•	 Streamline Regulatory and Business 
+Processes
+	 Provide a single liaison channel 
+to relevant agencies to reduce 
+administrative burden and accelerate 
+deployment.
+•	 Crowdsource innovative tools and 
+datasets.
+•	 Coordinate cross-agency company 
+registration, visa, and IP services 
+through a single channel.
+Orchestrate 
+Collaboration and 
+Catalyse Demand
+•	 Build Mentor and Talent Networks
+	 Identify and retain mentors for 
+solution builders via the AI Track 
+under MTEP and eResidency 
+pathways.
+•	 Strengthen Academic Synergies
+	 Engage universities to collaborate 
+with zone players on R&D and talent 
+pipelines for targeted focus areas.
+•	 Mobilise Private Investment
+	 Adopt a portfolio strategy to 
+strengthen existing Government-
+linked Investment Companies (GLICs) 
+investments in AI ventures.
+•	 Activate Demand-Led Programmes
+	 Organise structured programmes 
+that connect solution providers with 
+companies seeking AI solutions.
+•	 Deploy AI talent and university 
+partnerships to support Growth Zones 
+and priority R&D.
+•	 Embed an AI focus mandates in 
+Government-linked Investment 
+Companies (GLICs) with co-investment 
+funds.
+
+74
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+MARKET-DRIVEN INNOVATION
+AND ADOPTION
+PUBLIC TRUST AND CONFIDENCE
+E8
+	 Overview
+Widespread AI adoption without sufficient public literacy and education risks undermining safety, trust 
+and security. Public awareness and confidence in AI are therefore essential to enable safe and inclusive 
+adoption.
+By coordinating a long-term communications approach, leveraging diverse media channels and 
+responding effectively to incidents, Malaysia can strengthen trust and increase responsible AI adoption 
+among citizens.
+	 Target
+Increase the proportion of Malaysians who are confident in and trust AI systems.
+	 Recommendation
+Make public awareness and trust in AI a national strategic communications priority to support safe and 
+broad adoption.
+Ministry of Digital
+•	 AI Malaysia (National AI Office)
+	 Key Leads
+
+Ministry of Digital
+75
+Items
+Proposed Actions
+Implementation Priorities
+Proactive 
+Communications 
+to Build Trust and 
+Confidence
+•	 Risk Mitigation Communications
+	 Proactively share clear and accessible 
+information on how emerging AI risks 
+are mitigated, in collaboration with 
+the AI Trust Function, AI Malaysia 
+(National AI Office)  and Malaysian 
+Communications and Multimedia 
+Commission (MCMC).
+•	 Education via Traditional Channels
+	 Use mainstream media, press 
+briefings and documentary content to 
+educate the general public.
+•	 Social Media Amplification
+	 Partner with credible influencers to 
+launch campaigns that increase reach 
+and utilise modern content creation.
+•	 Core Focus Areas
+	 Structure all content around three 
+main pillars: AI Literacy, Responsible AI 
+Use, and AI Adoption.
+•	 Audience Segmentation
+	 Tailor messaging for specific groups, 
+including youth, rural populations, 
+SMEs, civil servants, and seniors.
+•	 Influencer Guidelines
+	 Develop a formal selection framework 
+for influencers to ensure high 
+standards of credibility and accuracy.
+Reactive Response 
+to Provide Clarity 
+and Assurance
+•	 AI Response Coordination 
+Mechanism
+	 Establish a “hub and spoke” model 
+working with the AI trust function 
+and enforcement agencies to provide 
+effective communication during 
+incidents.
+•	 AI Trust Barometer
+	 Regularly monitor public trust and 
+adoption metrics, displaying results 
+via a public dashboard.
+•	 Data-Driven Strategy Updates
+	 Adjust communication strategies 
+based on insights gathered by the 
+Trust Barometer.
+•	 Governance Structure
+	 Position the Ministry of Digital as lead, 
+supported by a committee comprising 
+representatives from the AI Trust 
+Function, AI Malaysia (National AI 
+Office), Ministry of Communications 
+and Malaysian Communications and 
+Multimedia Commission (MCMC).
+•	 External Benchmarking
+	 Align selected indicators with 
+internationally recognised trust and 
+technology adoption benchmarks 
+to ensure global comparability and 
+credibility.
+•	 Demographic Sensitivity
+	 Continuously refine messaging to 
+reflect changing public concerns and 
+demographic trends.
+
+76
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+DATA AND COMPUTE
+INFRASTRUCTURE
+AI-READY DATA ECOSYSTEM
+E9
+	 Overview
+Malaysia ranks first in data coverage and openness for official statistics9. To sustain this standing, 
+measures should focus on unlocking the economic value of data while safeguarding rights and ensuring 
+trusted data flows.
+This can be achieved by instituting a Right-To-Data channel for data requests, expanding the scope of 
+the Data Sharing Framework, scaling up a national-level data repository, and increasing adoption of 
+Government data exchange platforms.
+	 Target
+Improving Malaysia’s ranking in the Global Data Barometer.
+	 Recommendation
+Create a Malaysian Single Data Platform. Establish a centralised data governance and exchange 
+platform to catalyse AI innovation and secure trusted cross-border data flows.
+Ministry of Digital
+•	 Jabatan Digital Negara
+	 Key Leads
+9	 Open Data Watch, ODIN Country Profile: Malaysia (2024).
+
+Ministry of Digital
+77
+Items
+Proposed Actions
+Implementation Priorities
+Create AI-Ready 
+Datasets
+•	 Impact Engine Strategy
+	 Task each Impact Engine lead to 
+define a data-build strategy, including 
+priority areas based on specific use 
+cases and interoperability standards.
+•	 Right-to-Data Channel
+	 Institute a formal channel for non-
+sensitive, anonymised public sector 
+data requests.
+•	 Harmonise masking rules for 
+Personally Identifiable Information 
+(PII).
+•	 Launch a single portal with a live 
+dashboard to track data request status 
+and ensure accountability.
+•	 Partner with Dewan Bahasa dan 
+Pustaka (DBP) and National Archives 
+of Malaysia (Arkib Negara) to steward 
+Malaysian-specific datasets for local AI 
+Model development.
+Incentivise 
+Private-Sector 
+Participation
+•	 Contribution Incentives
+	 Offer incentives, fast-track regulatory 
+approvals and “AI Data Champion” 
+labels for companies contributing 
+high-quality datasets.
+•	 Resource Support
+	 Provide open-source development 
+kits, schema libraries and Malaysian 
+benchmarks, including Bahasa Melayu 
+and local cultural datasets.
+•	 Use the “AI Data Champion” label as a 
+formal metric contributing towards a 
+company’s Bursa ESG score.
+•	 Provide access to standardised 
+schemas, shared libraries and open 
+technical resources.
+Promote 
+Transparent and 
+Fair Exchange
+•	 National Data Exchange
+	 Establish a clear marketplace for 
+parties to publish, license and 
+discover datasets under transparent 
+commercial terms.
+•	 Regulatory Enforcement
+	 Empower the National Data 
+Commission to enforce AI-related data 
+governance and compliance across 
+sectors.
+•	 Offer self-service APIs and escrow-
+based payment systems to streamline 
+data access and build trust.
+•	 Develop data governance codes 
+of practice, audit protocols and 
+graduated penalties for non-
+compliance.
+International 
+Cooperation
+•	 Cross-Border Flows
+	 Enable secure data transfers 
+by aligning with international 
+frameworks such as DEPA and APEC 
+Cross-Border Privacy Rules.
+•	 Negotiate DEPA associate status via 
+the Ministry of Digital and initiate 
+pilot data-sharing arrangements with 
+selected international partners.
+
+78
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+DATA AND COMPUTE
+INFRASTRUCTURE
+ACCESSIBLE HIGH-COMPUTE CAPACITY
+E10
+	 Overview
+Accessible local compute capacity is essential to realise Malaysia’s Made by Malaysia AI aspiration. AI 
+compute capacity strengthens AI innovation, protects national data and security, and enhances global 
+competitiveness.
+The objective is to provide affordable, AI-ready compute capacity while remaining aligned with national 
+sustainability commitments. This capability will:
+•	 Enable localised training of AI models
+•	 Strengthen data protection and national security
+•	 Anchor a shared national R&D and talent hub
+•	 Improve global perception of Malaysia as an AI hub
+	 Target
+Increase the number of Malaysian supercomputers in the TOP500 list.
+	 Recommendation
+Build a robust, sustainable and high-powered compute foundation to support Malaysia’s national AI 
+ecosystem.
+Ministry of Communications
+•	 Malaysian Communications and Multimedia Commission (MCMC)
+	 Key Leads
+Items
+Proposed Actions
+Implementation Priorities
+Coordinate 
+Demand for AI 
+Compute Capacity
+•	 Bundle Compute Workloads
+	 Consolidate demand from government 
+agencies, academic institutions and 
+MSMEs into structured multi-year 
+contracts to provide predictable 
+baseline utilisation.
+•	 Refresh Cadence
+	 Implement an annual demand 
+revalidation cycle within the national 
+budget process and allocate unused 
+capacity to the spot market.
+
+Ministry of Digital
+79
+•	 Compute Voucher Programmes
+	 Issue redeemable GPU-hour credits 
+to guarantee base load utilisation 
+while widening access for SMEs and 
+startups.
+•	 Tiered Credit Ladder
+	 Establish tiered access linked to a 
+venture’s fundraising stage to prevent 
+short-term speculative usage and 
+ensure responsible allocation.
+Secure AI 
+Compute Capacity 
+from Data Centre 
+(DC) Players
+•	 Big Tech Reciprocal Agreements
+	 Engage hyperscale and cloud 
+providers through reciprocal 
+agreements, offering fast-track 
+incentives in exchange for 
+demonstrable local contributions, 
+including dedicated compute access.
+•	 Performance Clauses
+	 Include “fallback clauses” where 
+reservation fees drop by a certain 
+percentage if a Data Centre fails to 
+meet Power Usage Effectiveness (PUE) 
+or Renewable Energy (RE) targets.
+•	 Step-Out Options
+	 Retain the government’s right to 
+reassign racks, with appropriate 
+compensation, if strategic national 
+demand increases.
+Promote Private-
+Sector AI Compute 
+Build-out
+•	 Mobilise Competitive Financing
+	 Launch Digital Infrastructure Sukuk 
+and DC Credit Guarantee Schemes 
+with first-loss coverage, alongside 
+accelerated depreciation and 
+investment tax allowances.
+•	 Fast-Track Permitting
+	 Provide pre-zoned, plug-and-play 
+land for Data Centre clusters and 
+incentivise the conversion of suitable 
+brownfield sites into edge Data 
+Centres.
+•	 Green Sukuk
+	 Explore financing for GPU 
+infrastructure combined with on-site 
+renewable energy, structured to qualify 
+under ICMA Green-Bond Principles 
+and attract ESG investors.
+•	 Zonal Synergies
+	 Align compute infrastructure 
+expansion with existing state-led 
+special economic zone development 
+projects.
+Create a National 
+Supercomputing 
+Centre (NSC)
+•	 Shared National Capacity
+	 Establish a government-owned NSC 
+serving the public sector, including 
+BNM, academia and SMEs through a 
+National Virtual AI Lab.
+•	 Targeted Hardware Procurement
+	 Leverage innovative financing 
+instruments, such as AI Sukuk and a 
+National AI Infrastructure Investment 
+Fund, to support phased capacity 
+builds.
+•	 Modular Phasing
+	 Deploy modular infrastructure, 
+including pre-fabricated rack systems, 
+to enable future GPU upgrades 
+without requiring full system rebuilds.
+•	 Staggered Call-Off
+	 Use master purchase agreements to 
+secure pricing while allowing phased 
+hardware deliveries on an 18-month 
+cadence to reduce obsolescence risk.
+
+80
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+TRUST VIA RESPONSIBLE
+GOVERNANCE
+HOLISTIC AND SECTORAL AI GOVERNANCE
+E11
+	 Overview
+Malaysia has a strong foundation for AI adoption, supported by clear national ambition, an established 
+AI roadmap, voluntary governance guidelines and Cabinet-level backing. However, as AI systems expand 
+across sectors, existing governance arrangements must evolve beyond fragmented and voluntary 
+measures into a more coherent, future-ready and risk-based framework.
+A holistic yet sector-sensitive approach is needed to provide clear safeguard  for responsible innovation, 
+strengthen regulatory credibility and build confidence among citizens, industry and international 
+investors, while enabling AI adoption at scale.
+	 Target
+Position Malaysia among leading countries in AI governance and ethical readiness.
+	 Recommendation
+Establish a hybrid, risk-based AI governance framework that sets clear national guardrails while 
+empowering sector regulators to oversee AI use cases according to their domain-specific risks and 
+maturity levels.
+Ministry of Digital
+	 Key Lead
+Items
+Proposed Actions
+Implementation Priorities
+Establish Central 
+AI Oversight 
+with Sector 
+Empowerment
+•	 Create a central AI governance 
+authority to set national principles, 
+coordinate sector regulators and 
+oversee AI governance evolution.
+•	 Maintain sector regulators’ authority 
+for enforcement and domain-specific 
+governance.
+•	 Define mandate, scope, and operating 
+model of the central AI governance 
+authority.
+•	 Formalise coordination mechanisms 
+between the central authority and 
+sector regulators.
+
+Ministry of Digital
+81
+Enact a 
+Principles-Based 
+AI Regulatory 
+Framework
+•	 Codify core AI definitions, risk tiers 
+and foundational obligations using a 
+proportional, risk-based approach.
+•	 Issue interpretative guidance to 
+ensure consistent application across 
+sectors.
+•	 Use this framework as the foundation 
+for future AI legislation.
+•	 Publish the initial framework and 
+guidance.
+•	 Align with international standards to 
+support interoperability and investor 
+confidence.
+Enable Sector-
+Specific 
+Governance 
+Mechanisms
+•	 Guide regulators in applying the 
+appropriate mix of governance tools, 
+including legislation (hard law), 
+regulatory guidelines (quasi-binding 
+measures) and voluntary standards 
+(soft law), based on sector risk and 
+maturity.
+•	 Require regular reassessment of 
+AI use cases to adjust governance 
+intensity over time.
+•	 Conduct baseline risk and maturity 
+assessments across priority sectors.
+•	 Establish periodic review cycles to 
+recalibrate governance mechanisms.
+Introduce a 
+Structured 
+Regulatory Reform 
+Pathway
+•	 Define clear and streamlined 
+processes to update governance 
+requirements as AI systems scale in 
+impact and complexity.
+•	 Trigger predefined regulatory 
+adjustments when performance or 
+risk thresholds are met.
+•	 Integrate reform pathways into 
+regulatory planning and review 
+processes.
+•	 Leverage on international good 
+regulatory and agile regulation 
+practices to guide implementation.
+
+82
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+TRUST VIA RESPONSIBLE
+GOVERNANCE
+AI TRUST FUNCTION
+E12
+	 Overview
+As AI systems grow in scale and complexity, regulatory oversight alone cannot address emerging risks. 
+Malaysia needs a dedicated operational capability to evaluate, monitor and respond to AI risks in real 
+time.
+A national AI Trust Function will complement existing governance and enforcement efforts by providing 
+technical assurance, incident response and cross-sector coordination. Its role is to ensure that AI systems 
+remain safe, secure and trustworthy throughout their lifecycle.
+	 Target
+Establish a rapid and reliable national capability to detect, assess and contain critical AI-related incidents, 
+with continuous improvement in response readiness, coordination and effectiveness across government 
+and key sectors.
+	 Recommendation
+Establish a national AI Trust Function to evaluate, monitor, anticipate and respond to AI risks. This function 
+will strengthen operational assurance and incident response while supporting regulatory frameworks 
+and international alignment.
+Ministry of Digital
+	 Key Lead
+Items
+Proposed Actions
+Implementation Priorities
+Establish a 
+National AI Trust 
+Function
+Set up an AI Trust Function responsible 
+for:
+•	 Standards and Policy
+	 Issue AI safety and security standards, 
+risk classifications, and safe-use 
+guidance.
+•	 Operationalise the AI Trust Function 
+as a body that coordinates with the 
+proposed central AI governance 
+authority.
+
+Ministry of Digital
+83
+•	 Evaluation and Certification
+	 Oversee AI model and application 
+testing, certification and assessor 
+accreditation, and maintain a public 
+AI incident registry.
+•	 Incident Monitoring and Forensics
+	 Provide expert support for AI incident 
+investigations, attribution and threat 
+intelligence sharing.
+•	 International Collaboration and 
+Capacity Building
+	 Conduct research, publish periodic 
+risk reports and participate in regional 
+and global AI safety initiatives.
+•	 Recruit and train a specialised 
+multidisciplinary team, including AI 
+risk analysts, adversarial machine 
+learning engineers and incident 
+response leads.
+•	 Establish formal coordination protocols 
+with sector regulators and relevant 
+agencies on incident reporting, AI 
+sandboxes, and other areas of shared 
+responsibility.
+Empower
+Existing Agencies 
+to Address
+AI-Specific Risks
+•	 Integrate AI-specific risk 
+considerations into existing 
+enforcement and incident-response 
+workflows.
+•	 Mandate visibility of AI-related 
+incidents across enforcement 
+agencies by reporting to the AI Trust 
+Function.
+•	 Maintain enforcement responsibilities 
+within existing agencies, supported by 
+technical expertise from the AI Trust 
+Function.
+•	 Formalise reporting and information-
+sharing mechanisms between 
+enforcement bodies and the AI Trust 
+Function.
+•	 Integrate cybersecurity, 
+communications, financial and 
+law enforcement agencies into a 
+coordinated operational response 
+framework.
+Strengthen 
+Regional and 
+International 
+AI Safety 
+Engagement
+•	 Lead and support the ASEAN AI Safety 
+Network to align regional safety and 
+security standards.
+•	 Participate in international AI safety 
+coordination, research exchanges and 
+shared incident-learning networks.
+•	 Convene a Malaysia-chaired regional 
+networks involving regulators, 
+academia, and industry.
+•	 Use international collaboration to 
+benchmark Malaysia’s AI risk posture 
+and strengthen domestic capabilities.
+
+84
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+TRUST VIA RESPONSIBLE
+GOVERNANCE
+NATIONAL AI CLASSIFICATION
+E13
+	 Overview
+Establish a criteria-based certification framework for Made by Malaysia AI covering compute, data, and 
+models, supported by open benchmarks to strengthen the national AI ecosystem.
+A strong national AI ecosystem requires sustained capability across data, infrastructure, talent and 
+governance. This will strengthen domestic capacity to develop, deploy and govern AI systems responsibly, 
+supported by trusted standards, clear certification frameworks and coordinated institutional oversight. A 
+calibrated mix of incentives and regulatory measures will drive responsible innovation while reinforcing 
+long-term resilience and national capability across the AI value chain.
+	 Target
+Ensure critical government services hosted on the National AI stack is at an increasing rate towards 2030.
+	 Recommendation
+Establish a structured governance model through clear classifications, coordinated implementation to 
+ensure national self-reliance.
+Ministry of Digital
+•	 AI Malaysia (National AI Office)
+	 Key Leads
+
+Ministry of Digital
+85
+Items
+Proposed Actions
+Implementation Priorities
+Centralised 
+Oversight
+•	 AI Malaysia (National AI Office) as 
+Central Implementer
+	 Designate AI Malaysia (National AI 
+Office) as the primary driver for Made 
+by Malaysia AI initiatives, including 
+Large Language Models (LLM) and 
+Sovereign Compute.
+•	 Capacity Safeguards
+	 Develop and implement a phased 
+compliance roadmap to ensure 
+adequate local capacity and prevent 
+service disruptions or vendor lock-in.
+Classification and 
+Certification
+•	 Establish Tiered Classifications
+	 Develop guidelines that define 
+requirements across cloud 
+infrastructure, compute power, and 
+model or application layers.
+•	 Risk-Based Thresholds
+	 Define thresholds based on the risk 
+level of each application.
+•	 Industry Consultation
+	 Engage industry bodies and academia 
+to ensure the framework is balanced 
+and practical.
+Incentive 
+Packages
+•	 Support Local AI Supply Chains
+	 Strengthen Malaysia-owned and 
+operated AI supply chains through 
+measures such as establishing local 
+supplier registries and prioritising 
+government procurement from 
+qualified local providers.
+•	 Integrity Audits
+	 Conduct regular audits to prevent 
+misuse of certified status through 
+proxy or front-company arrangements.
+•	 Migration Fund
+	 Establish a fund to support this 
+initiative.
+
+86
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+TRUST VIA RESPONSIBLE
+GOVERNANCE
+AI-AWARE STEWARDSHIP
+E14
+	 Overview
+As AI adoption accelerates, Malaysian corporate boards must be prepared to oversee emerging 
+technology risks responsibly. Organisations should establish clear Responsible AI (RAI) governance 
+practices to ensure AI is deployed safely, ethically and effectively.
+This requires action at two levels. At the organisational level, companies must embed Responsible 
+AI across strategy, processes, culture, governance and technology. At the national level, these efforts 
+must align with broader regulatory frameworks, ethical standards, capacity-building initiatives and 
+technology policies. Strong alignment between corporate and national governance will help build trust, 
+accountability and long-term resilience in AI adoption.
+	 Target
+Achieve adoption of emerging technology governance best practices among 30% of Large Public Listed 
+Companies10 by 2028, increasing to 50% by 2030.
+	 Recommendation
+Update national corporate governance codes and guidelines to address emerging technology and AI 
+risks, ensuring board-level accountability, oversight, and transparency.
+Ministry of Digital
+•	 AI Malaysia (National AI Office)
+	 Key Leads
+10	Large Companies – aligned to the definition in Malaysian Code of Corporate Governance, Securities Commission Malaysia. Amendments 
+to MCCG will be applicable for listed companies on Bursa Malaysia (“comply or explain”), not applicable for unlisted companies.
+
+Ministry of Digital
+87
+Items
+Proposed Actions
+Implementation Priorities
+Encourage AI 
+Disclosures
+•	 Introduce Governance Statement
+	 Consider requiring Large Companies 
+to include an Emerging Technology 
+Governance Statement, featuring AI in 
+annual reports.
+•	 Publish Maturity Scorecards
+	 Encourage companies to publish an 
+Emerging Technology Readiness reports 
+or a Maturity Scorecards to inform 
+stakeholders of organisational capabilities.
+•	 Explore amendments to the 
+Malaysian Code on Corporate 
+Governance (MCCG), building on 
+existing disclosure practices.
+Strengthen 
+Leadership 
+Competence
+•	 Enhance Board-Level Expertise
+	 Consider requiring boards to possess, 
+or have access to, sufficient expertise to 
+oversee AI and emerging technology risks.
+•	 Introduce AI Literacy Programmes
+	 Develop AI-literacy playbooks, sector-
+specific modules and masterclasses for 
+Board of Directors (BoD) and C-suite of 
+Large Companies.
+•	 Review potential MCCG updates 
+and explore an open directory of 
+AI-skilled directors and advisors to 
+support board recruitment.
+Strengthen Risk 
+and Control 
+Frameworks
+•	 Encourage AI System Inventories and 
+Risk Mapping
+	 Consider requiring companies to maintain 
+a board-approved AI system inventory and 
+risk assessment map, subject to internal 
+audit review.
+•	 Promote Foresight Exercises
+	 Encourage regular scenario planning 
+exercises to identify and respond to 
+emerging technology risks.
+•	 Align proposed MCCG 
+amendments with existing sector-
+specific regulatory requirements.
+Regulatory 
+and Ecosystem 
+Alignment
+•	 Establish a Joint Working Group
+	 Convene the Securities Commission 
+Malaysia (SC), Bursa Malaysia, AI Malaysia 
+(National AI Office), Personal Data 
+Protection Commission (PDPC) and 
+Ministry of Science, Technology and 
+Innovation (MOSTI) to coordinate and align 
+the MCCG, Listing Rules, PDPA revisions 
+and relevant sector-specific guidelines.
+•	 Align the publication of 
+recommendations with the 
+Securities Commission’s annual 
+MCCG Monitor to ensure boards 
+receive a single, consolidated 
+update.
+
+PART 5:
+GOVERNANCE AND 
+IMPLEMENTATION
+
+Ministry of Digital
+89
+WHOLE-OF-NATION EXECUTION MODEL
+Whole-of-Nation oversight at the highest level
+AI Nation 2030 is implemented through a Whole-of-Nation Execution Model anchored in public–
+private partnerships and strong cross-ministerial coordination. Oversight is provided by the 
+National Digital Economy and 4IR Council (MED4IRN), chaired by the Prime Minister, ensuring 
+alignment with national priorities.
+a
+Strategic and implementation advisory activation
+Strategic and implementation advisory councils operationalise the quadruple helix, ensuring 
+sustained participation from industry, academia and civil society.
+b
+AI Malaysia (National AI Office) as central Secretariat
+The AI Malaysia (National AI Office) serves as the central Secretariat, driving strategic coordination, 
+stakeholder alignment and integration with broader digital economy and national development.
+c
+Clear accountability for delivery
+Implementation teams operate under defined accountability, coordinated resourcing and a 
+streamlined cross-ministerial reporting structure to ensure effective execution.
+d
+This model ensures that AI Nation 2030 is delivered as a coherent national programme rather than a 
+collection of isolated initiatives.
+National AI Action Plan 2026-2030 Steering Committee
+National AI Action Plan Steering Committee
+CDO/DTU Members
+AI Strategic Advisory Council
+b
+a
+Implementation Teams
+National AI Action Plan Steering Committee
+Catalytic Initiative Leads
+Initiative Leads
+AI Implementation
+Advisory Council
+b
+d
+National Digital Economy and 4IR Council (MED4IRN) Steering Committee
+a
+NATIONAL AI ACTION PLAN 2026-2030 GOVERNANCE STRUCTURE
+Figure 6: Whole-of-Nation Execution Model for AI Nation 2030.
+Secretariat AI Malaysia
+(National AI Office)
+c
+
+90
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+STRATEGIC AND IMPLEMENTATION ADVISORY COUNCILS
+To operationalise the quadruple helix model of government, industry, academia and civil society, the AI 
+Nation 2030 establishes two dedicated advisory bodies:
+CLEAR MANDATES AND ACCOUNTABILITY ACROSS 
+GOVERNMENT
+The governance framework assigns clear mandates and accountabilities across government entities to 
+minimise duplication and execution friction. Each initiative is led by a designated Key Lead with direct 
+responsibility for delivery, supported by streamlined reporting structures and aligned funding mechanisms.
+This clarity enables faster decision-making, more efficient resource allocation, and stronger accountability 
+for outcomes.
+SHIFTING TO OUTCOME-BASED POLICYMAKING
+The AI Nation 2030 marks a deliberate shift from input-driven metrics towards outcome-based 
+policymaking. Priority is given to catalytic initiatives that function as lighthouse projects and impact 
+multipliers, demonstrating tangible benefits to citizens, businesses and the economy.
+By focusing on visible, measurable outcomes, the AI Nation 2030 strengthens public accountability, builds 
+trust, and sustains momentum throughout the implementation period and the AI Nation 2030 aspiration.
+Together, these councils institutionalise collaboration and embed stakeholder engagement directly into 
+decision-making and delivery, beyond ad hoc consultation.
+AI Strategic Advisory Council
+Comprising senior decision-makers to provide national-level strategic guidance, resolve systemic 
+constraints and steer priority directions.
+AI Implementation Advisory Council
+Ensuring sustained industry and academic participation in execution, feedback and continuous 
+improvement.
+
+Ministry of Digital
+91
+Impact Engines
+Accelerating measurable transformation across priority sectors such as healthcare, education, 
+manufacturing, and agriculture, translating AI adoption into real and practical improvements in 
+productivity, service delivery, and quality of life.
+Foundational Enablers
+Reinforcing the core ecosystem through sustained investment in talent development, innovation 
+capacity, digital and compute infrastructure, effective governance, and sustainable financing, 
+ensuring long-term resilience, competitiveness, and trusted AI adoption.
+The National AI Action Plan 2026-2030 (AI Nation 2030) sets out a clear strategic pathway for Malaysia’s 
+role in the evolving digital economy. Beyond technology adoption, it reflects a national commitment to 
+strengthening value creation, advancing inclusive growth, and ensuring that the benefits of Artificial 
+Intelligence are broadly shared across society.
+Delivering this vision depends on the implementation of two complementary pillars working in tandem:
+Guided by the MADANI vision, the AI Nation 2030 positions AI as a tool to support equitable development, 
+resilient governance, and long-term sustainability while upholding societal values and public trust. Looking 
+ahead to 2030, Malaysia aspires to move from readiness to leadership, from technology consumer to value-
+adding producer, and from fragmented adoption to a cohesive national AI ecosystem. AI Nation 2030 is a 
+shared journey that will continue to evolve as technologies advance and opportunities emerge, anchored by a 
+collective commitment to harness Artificial Intelligence for the benefit of all Malaysians.
+CONCLUSION
+
+92
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+GLOSSARY
+4IR - National Fourth Industrial Revolution Policy: AI, IoT, and robotics convergence.
+Agristack - A centralised digital architecture that integrates agricultural data (soil, crops, farm-level) to 
+improve decision-making in the farming ecosystem.
+Agritech - The use of technology in agriculture with the aim of improving efficiency and profitability.
+AI Classification - A structured system to categorise AI applications based on their risk level, impact, 
+and technical complexity.
+AI mobility stack - An AI technology stack tailored for mobility and transport systems.
+AI stack - A layered set of technologies used to develop and operate AI systems, typically including 
+hardware, data, models, and applications across the AI lifecycle.
+AI-augmented - A human-centric process in which AI is used to enhance performance.
+AI-Rmap - National Artificial Intelligence (AI) Roadmap 2021-2025.
+AI@Work - Malaysia’s government initiative to drive AI adoption among civil servants, focusing on 
+practical use of AI in daily government work.
+AIGE - National Guidelines on AI Governance and Ethics.
+APEC - Asia-Pacific Economic Cooperation.
+APIs - Application Programming Interface: Protocols that allow different software applications to 
+communicate and share data with one another.
+ASEAN - Association of Southeast Asian Nations.
+BDI - MDEC Business Digitalisation Initiative.
+
+Ministry of Digital
+93
+BNM - Bank Negara Malaysia.
+Closed-loop AI - A system where AI outputs are continuously fed back into the system to improve future 
+performance without manual intervention.
+Compute capacity - The amount of computational resources available to process data and run workloads.
+Compute infrastructure - The hardware and software resources required to develop, test, operate, and 
+manage computing tasks.
+Compute Pool - A shared pool of computing resources that can be accessed by multiple users or 
+organisations.
+Dataset - A structured or unstructured collection of data, typically organised for a specific purpose.
+DBP - Dewan Bahasa dan Pustaka.
+Data Centre: a large group of networked computer servers typically used by organisations for the remote 
+storage, processing, or distribution of large amounts of data.
+Catalytic Initiatives - Catalytic Initiatives are high-priority, fast-tracked projects designed to deliver 
+immediate proof-of-value and broad societal impact within a two-year timeframe using public sector 
+assets.
+DEPA - Digital Economy Partnership Agreement.
+e-Residency - A government-issued digital identity that allows entrepreneurs to start and manage a 
+business in a country without being physically resident there.
+EdTech - Educational Technology.
+EPF - Employees Provident Fund (KWSP).
+ESG - Environmental, Social, and Governance.
+FELDA - Federal Land Development Authority.
+
+94
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+Foundational Enablers - Foundational Enablers are the system-wide capabilities and infrastructure 
+required to anchor and scale AI adoption across the entire economy.
+GLC - Government-Linked Company.
+Global Data Barometer - A global benchmark that tracks the state of data for the public good.
+GovTech Malaysia - Malaysia’s government digital transformation initiative aimed at delivering public 
+services through digital technologies.
+HRD Corp - Human Resource Development Corporation.
+ICMA - International Capital Market Association.
+ICT - Information and Communication Technology.
+Impact Engines - Impact Engines are targeted sectoral strategies that create self-reinforcing cycles of 
+data, talent, and AI solutions to drive productivity and transformation in high-impact areas.
+IoT - Internet of Things.
+IP - Intellectual Property.
+KL20 Innovation Pass - A specialised multi-tiered employment visa category.
+LLM - Large Language Models are AI models or systems trained on large and diverse datasets, and are 
+capable of performing a wide range of language-related tasks.
+LMS - Learning Management System.
+MCCG - Malaysian Code on Corporate Governance.
+MCMC - Malaysian Communications and Multimedia Commission.
+MDEB - Malaysia Digital Economy Blueprint.
+
+Ministry of Digital
+95
+MDEC - Malaysia Digital Economy Corporation.
+MED4IRN - National Digital Economy and 4IR Council.
+MOHE - Ministry of Higher Education Malaysia.
+MPOB - Malaysian Palm Oil Board.
+MQA - Malaysian Qualifications Agency.
+MTEP - Malaysia Tech Entrepreneur Programme.
+MyDigital ID - Malaysia’s government initiative for secure and trusted digital identity solutions.
+MyGOV Malaysia - The central online portal for all Malaysian government services.
+NACSA - National Cyber Security Agency.
+NAIO - National AI Office.
+NCD - Non-Communicable Diseases.
+OECD - Organisation for Economic Co-operation and Development.
+OGSE - Oil and Gas Services and Equipment.
+Open-source - Software for which the original source code is made freely available and may be 
+redistributed and modified.
+PDPA - Akta Perlindungan Data Peribadi 2010 [Akta 709].
+PDPC - Personal Data Protection Commission.
+PPP - Public-Private Partnership.
+
+96
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+PUE - Power Usage Effectiveness: A ratio that describes how efficiently a computer data centre uses 
+energy; specifically, how much energy is used by the computing equipment.
+Quadruple helix - An innovation model that recognises four major actors: Government, Academia, 
+Industry, and Civil Society.
+R&D - Research and Development.
+RAI - Responsible AI: The practice of designing, developing, and deploying AI with good intentions to 
+empower employees and businesses, and fairly impact customers and society.
+RDI - Research, Development and Innovation.
+Right-To-Data Channel - A proposed mechanism allowing individuals to access, manage, and port their 
+personal data held by organisations.
+RISDA - Rubber Industry Smallholders Development Authority.
+RMK-13 - Thirteenth Malaysia Plan: Malaysia’s national five-year socio-economic development plan 
+covering 2026–2030.
+SaaS - Software as a Service.
+SC - Securities Commission Malaysia.
+Smart technology stacks - A combination of technologies, typically including IoT, AI, data platforms, 
+and connectivity, used to enable intelligent, connected systems such as smart cities or smart 
+infrastructure.
+SOCSO - Social Security Organisation (PERKESO).
+Sovereign AI - The capacity of a nation to build, train, and deploy AI using its own infrastructure, data, 
+and workforce to ensure autonomy.
+Sovereign Compute - This refer to the ability to maintain autonomous control, ownership, and jurisdiction 
+over computing infrastructure.
+
+Ministry of Digital
+97
+Sukuk - An Islamic financial certificate, similar to a bond, that complies with Sharia law.
+TalentCorp - Talent Corporation Malaysia.
+Techno-functional - Skills or roles that require both technical expertise (programming, engineering) 
+and functional business knowledge.
+Technology stack - A set of software, hardware, and data components used together to develop, deploy, 
+and operate an application or system.
+Testbed - Controlled environment for testing new theories and technologies.
+TRL - Technology Readiness Level.
+TTO - Technology Transfer Office.
+TVET - Technical and Vocational Education and Training.
+Whole-of-government - Whole-of-government refers to an approach in which different ministries, 
+agencies, and public institutions coordinate their policies, resources, and actions to achieve shared 
+national objectives, rather than working in isolation. 
+Whole-of-nation - Collaboration including government, private sector, and civil society.
+Zonal Synergies - The alignment and coordination of development efforts within specific geographic 
+zones to maximise shared benefits and efficiency.
+
+98
+AI NATION 2030  |  NATIONAL AI ACTION PLAN 2026-2030
+A COLLECTIVE EFFORT 
+TOWARDS AN AI NATION
+The National AI Action Plan 2030 would not have been possible without the collective commitment and 
+contributions of many. We extend our deepest appreciation to the Right Honourable Prime Minister 
+of Malaysia, YAB Dato’ Seri Anwar Ibrahim for his leadership and vision, followed by the Members of 
+the Cabinet, as well as the management of ministries and agencies whose guidance and support have 
+been instrumental throughout this process. We also acknowledge the invaluable insights and expertise 
+contributed by the AI Malaysia (National AI Office) Working Groups, alongside members of industry and 
+academic institutions, whose perspectives have enriched the development of this Action Plan. Finally, we 
+thank all other contributors who have played a role, directly and indirectly, in shaping a comprehensive and 
+forward-looking AI agenda for the nation.
+
+This page is intentionally left blank
+
+This page is intentionally left blank
+
+Instagram:
+naiomalaysia
+Facebook:
+National AI Office Malaysia
+LinkedIn:
+National AI Office Malaysia (NAIO)
+Website:
+ai.gov.my
+Scan the QR code to visit the AI Nation 2030 website.
