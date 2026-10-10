@@ -2,6 +2,8 @@
 
 **Dormathon 2026 · Track 1 — Predict Early, Decide Better**
 
+**🔴 Live app: https://arthurzwong.github.io/madani-twin/** (GitHub Pages, deployed from the `gh-pages` branch)
+
 MADANI Twin answers five questions for Malaysian SMEs from one deterministic engine:
 
 1. How much cash is available now?
@@ -15,6 +17,10 @@ MADANI Twin answers five questions for Malaysian SMEs from one deterministic eng
 ---
 
 ## Quick start
+
+**Run online (no install):** open **https://arthurzwong.github.io/madani-twin/** — works in any modern browser, fully offline after load.
+
+Run locally:
 
 ```bash
 npm install     # Node 18+ (built with Node 22)

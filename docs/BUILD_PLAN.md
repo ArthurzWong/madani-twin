@@ -62,4 +62,6 @@ Repo `ArthurzWong/madani-twin` (public) created via `gh` + verified via GitHub M
 - README has exact run instructions. External AI optional and absent.
 - Integration status reported truthfully in `TOOL_INTEGRATION_MATRIX.md`.
 
+**Live deployment (2026-10-11 06:43):** GitHub Pages enabled on `gh-pages` branch; site built (Pages API `status: built` for commit `b72f066`) and browser-verified at **https://arthurzwong.github.io/madani-twin/** (HTTP 200 for index + JS 238,679 B + CSS 9,822 B; dashboard renders with all mandatory values). Vercel connector was not used: no model-side tools exposed this session and Production Deploys are prohibited by policy without explicit product capability.
+
 **Unresolved / user actions needed:** none blocking. Optional: live Mobbin sweep (needs Mobbin account), Kiro spec import (needs Kiro MCP enablement), Grafilab AI layer (needs account + justified workload), Vercel deployment (needs user-approved project creation — connector selected but write-deploy requires explicit confirmation per policy).
